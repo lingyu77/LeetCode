@@ -4,6 +4,7 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 
 ### Problems
 Algorithms
+
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
 | 461 | [Hamming Distance][461] | [C][461.1] <br> [Python][461.2] | Easy |
