@@ -14,6 +14,16 @@ Algorithms
 | 617 | [Merge Two Binary Trees][617] | [C][617.1] <br> [Python][617.2] | Easy |
 | 657 | [Judge Route Circle][657] | [C][657.1] <br> [Python][657.2] | Easy |
 | 728 | [Self Dividing Numbers][728] | [C][728.1] <br> [Python][728.2] | Easy |
+| 1 | [Two Sum][1] | [C][1.1] <br> [Python][1.2] | Easy |
+| 13 | [Roman to Integer][13] | [C][13.1] <br> [Python][13.2] | Easy |
+
+[13]:https://leetcode.com/problems/roman-to-integer/description/
+[13.1]:https://leetcode.com/problems/roman-to-integer/description/
+[13.2]:https://github.com/lingyu77/LeetCode/blob/master/Python%203/13_RomanToInteger.py
+
+[1]:https://leetcode.com/problems/two-sum/description/
+[1.1]:https://github.com/lingyu77/LeetCode/blob/master/C/1_TwoSum.c
+[1.2]:https://github.com/lingyu77/LeetCode/blob/master/Python%203/1_TwoSum.py
 
 [461]:https://leetcode.com/problems/hamming-distance/description/
 [461.1]:https://github.com/lingyu77/LeetCode/blob/master/C/461_hammingDistance.c
