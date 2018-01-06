@@ -16,7 +16,7 @@ Algorithms
 | 728 | [Self Dividing Numbers][728] | [C][728.1] <br> [Python][728.2] | Easy |
 | 1 | [Two Sum][1] | [C][1.1] <br> [Python][1.2] | Easy |
 | 13 | [Roman to Integer][13] | [C][13.1] <br> [Python][13.2] | Easy |
-| 136 | [Single Number][136] | [C][136.1] [Python][136.2]| Easy |
+| 136 | [Single Number][136] | [C][136.1] <br> [Python][136.2]| Easy |
 | 500 | [Keyboard Row][500] | [C][500.1] | Easy |
 | 605 | [Can Place Flowers][605] | [C][605.1] | Easy |
 
