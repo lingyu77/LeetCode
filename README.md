@@ -16,7 +16,7 @@ Algorithms
 | 728 | [Self Dividing Numbers][728] | [C][728.1] <br> [Python][728.2] | Easy |
 | 1 | [Two Sum][1] | [C][1.1] <br> [Python][1.2] | Easy |
 | 13 | [Roman to Integer][13] | [C][13.1] <br> [Python][13.2] | Easy |
-| 136 | [Single Number][136] | [C][136.1] | Easy |
+| 136 | [Single Number][136] | [C][136.1] <br> [Python][136.2]| Easy |
 | 500 | [Keyboard Row][500] | [C][500.1] | Easy |
 | 605 | [Can Place Flowers][605] | [C][605.1] | Easy |
 
@@ -28,6 +28,7 @@ Algorithms
 
 [136]:https://leetcode.com/problems/single-number/description/
 [136.1]:https://github.com/lingyu77/LeetCode/blob/master/C/136_SingleNumber.c
+[136.2]:https://github.com/lingyu77/LeetCode/blob/master/Python%203/136_SingleNumber.py
 
 [13]:https://leetcode.com/problems/roman-to-integer/description/
 [13.1]:https://github.com/lingyu77/LeetCode/blob/master/C/13_RomanToInteger.c
