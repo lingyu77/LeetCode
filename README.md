@@ -20,6 +20,10 @@ Algorithms
 | 500 | [Keyboard Row][500] | [C][500.1] | Easy |
 | 605 | [Can Place Flowers][605] | [C][605.1] | Easy |
 | 412 | [Fizz Buzz][412] | [C][412.1] | Easy |
+| 682 | [Baseball Game][682] | [C][682.1] | Easy |
+
+[682]:https://leetcode.com/problems/baseball-game/description/
+[682.1]:https://github.com/lingyu77/LeetCode/blob/master/C/682_BaseballGame.c
 
 [412]:https://leetcode.com/problems/fizz-buzz/description/
 [412.1]:https://github.com/lingyu77/LeetCode/blob/master/C/412_FizzBuzz.c
