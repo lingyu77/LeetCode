@@ -21,6 +21,10 @@ Algorithms
 | 605 | [Can Place Flowers][605] | [C][605.1] | Easy |
 | 412 | [Fizz Buzz][412] | [C][412.1] | Easy |
 | 682 | [Baseball Game][682] | [C][682.1] | Easy |
+| 575 | [Distribute Candies][575] | [C][575.1] | Easy |
+
+[575]:https://leetcode.com/problems/distribute-candies/
+[575.1]:https://github.com/lingyu77/LeetCode/blob/master/C/575_DistributeCandies.c
 
 [682]:https://leetcode.com/problems/baseball-game/description/
 [682.1]:https://github.com/lingyu77/LeetCode/blob/master/C/682_BaseballGame.c
