@@ -23,6 +23,10 @@ Algorithms
 | 682 | [Baseball Game][682] | [C][682.1] | Easy |
 | 575 | [Distribute Candies][575] | [C][575.1] | Easy |
 | 504 | [Base 7][504] | [C][504.1] | Easy |
+| 7   | [Reverse Integer][7] | [C][7.1] | Easy |
+
+[7]:https://leetcode.com/problems/reverse-integer/description/
+[7.1]:https://github.com/lingyu77/LeetCode/blob/master/C/7_ReverseInteger.c
 
 [504]:https://leetcode.com/problems/base-7/description/
 [504.1]:https://github.com/lingyu77/LeetCode/blob/master/C/504_Base7.c
