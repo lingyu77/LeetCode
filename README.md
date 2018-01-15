@@ -22,6 +22,10 @@ Algorithms
 | 412 | [Fizz Buzz][412] | [C][412.1] | Easy |
 | 682 | [Baseball Game][682] | [C][682.1] | Easy |
 | 575 | [Distribute Candies][575] | [C][575.1] | Easy |
+| 504 | [Base 7][504] | [C][504.1] | Easy |
+
+[504]:https://leetcode.com/problems/base-7/description/
+[504.1]:https://github.com/lingyu77/LeetCode/blob/master/C/504_Base7.c
 
 [575]:https://leetcode.com/problems/distribute-candies/
 [575.1]:https://github.com/lingyu77/LeetCode/blob/master/C/575_DistributeCandies.c
