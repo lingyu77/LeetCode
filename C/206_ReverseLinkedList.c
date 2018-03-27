@@ -28,8 +28,18 @@ struct ListNode* reverseList(struct ListNode* head) {
     return prev;  
 }
 
-//Recursive
+//Recursive. Runtime: 4 ms
 struct ListNode* reverseListR(struct ListNode* head) {
+    if (head == NULL || head->next == NULL)
+    {
+        return head;         
+    }
+    
+    struct ListNode* newPrev = head->next;
+    head-> next = NULL;
 
-
+    struct ListNode* newNext = reverseListR(newPrev);
+    newPrev->next = head;
+    
+    return newNext;
 }
