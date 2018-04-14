@@ -1,29 +1,59 @@
+
 # LeetCode
 
 Practise coding skills. Improve logic thinking. Weclcome to discuss it together. 
 
-### Problems
-Algorithms
+## Algorithms
 
+### Arrary
+| # | Title | Solutions | Difficulty | Note |
+| ------ | ------ | ------ | ------ |------ |
+| 1 | [Two Sum][1] | [C][1.1] <br> [Python][1.2] | Easy |
+| 561 | [Array Partition I.][561] | [C][561.1] <br> [Python][561.2] | Easy |
+| 605 | [Can Place Flowers][605] | [C][605.1] | Easy |
+
+### Bit Manipulation
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
 | 461 | [Hamming Distance][461] | [C][461.1] <br> [Python][461.2] | Easy |
-| 344 | [Reverse String][344] | [C][344.1] <br> [Python][344.2] | Easy |
 | 476 | [NumberComplement][476] | [C][476.1] <br> [Python][476.2] | Easy |
-| 561 | [Array Partition I.][561] | [C][561.1] <br> [Python][561.2] | Easy |
-| 617 | [Merge Two Binary Trees][617] | [C][617.1] <br> [Python][617.2] | Easy |
+
+### String
+| # | Title | Solutions | Difficulty | Note |
+| ------ | ------ | ------ | ------ |------ |
+| 344 | [Reverse String][344] | [C][344.1] <br> [Python][344.2] | Easy |
 | 657 | [Judge Route Circle][657] | [C][657.1] <br> [Python][657.2] | Easy |
-| 728 | [Self Dividing Numbers][728] | [C][728.1] <br> [Python][728.2] | Easy |
-| 1 | [Two Sum][1] | [C][1.1] <br> [Python][1.2] | Easy |
+
+### Tree
+| # | Title | Solutions | Difficulty | Note |
+| ------ | ------ | ------ | ------ |------ |
+| 617 | [Merge Two Binary Trees][617] | [C][617.1] <br> [Python][617.2] | Easy |
+
+### Math
+| # | Title | Solutions | Difficulty | Note |
+| ------ | ------ | ------ | ------ |------ |
+| 7   | [Reverse Integer][7] | [C][7.1] | Easy |
 | 13 | [Roman to Integer][13] | [C][13.1] <br> [Python][13.2] | Easy |
+| 728 | [Self Dividing Numbers][728] | [C][728.1] <br> [Python][728.2] | Easy |
+
+
+### Hash Table
+| # | Title | Solutions | Difficulty | Note |
+| ------ | ------ | ------ | ------ |------ |
 | 136 | [Single Number][136] | [C][136.1] <br> [Python][136.2]| Easy |
 | 500 | [Keyboard Row][500] | [C][500.1] | Easy |
-| 605 | [Can Place Flowers][605] | [C][605.1] | Easy |
-| 412 | [Fizz Buzz][412] | [C][412.1] | Easy |
-| 682 | [Baseball Game][682] | [C][682.1] | Easy |
 | 575 | [Distribute Candies][575] | [C][575.1] | Easy |
+
+### Stack
+| # | Title | Solutions | Difficulty | Note |
+| ------ | ------ | ------ | ------ |------ |
+| 682 | [Baseball Game][682] | [C][682.1] | Easy |
+
+### Others
+| # | Title | Solutions | Difficulty | Note |
+| ------ | ------ | ------ | ------ |------ |
+| 412 | [Fizz Buzz][412] | [C][412.1] | Easy |
 | 504 | [Base 7][504] | [C][504.1] | Easy |
-| 7   | [Reverse Integer][7] | [C][7.1] | Easy |
 
 [7]:https://leetcode.com/problems/reverse-integer/description/
 [7.1]:https://github.com/lingyu77/LeetCode/blob/master/C/7_ReverseInteger.c
@@ -85,3 +115,6 @@ Algorithms
 [728]:https://leetcode.com/problems/self-dividing-numbers/description/
 [728.1]:https://github.com/lingyu77/LeetCode/blob/master/C/728_SelfDividingNumbers.c
 [728.2]:https://github.com/lingyu77/LeetCode/blob/master/Python%203/728_SelfDividingNumbers.py
+
+
+> Written with [StackEdit](https://stackedit.io/).
