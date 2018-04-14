@@ -8,7 +8,7 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 ### Arrary
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
-| 1 | [Two Sum][1] | [C][1.1] <br> [Python][1.2] | Easy | [Python3 Data structure] [https://docs.python.org/3/tutorial/datastructures.html]| 
+| 1 | [Two Sum][1] | [C][1.1] <br> [Python][1.2] | Easy | [Python3 Data structure] (https://docs.python.org/3/tutorial/datastructures.html)| 
 | 561 | [Array Partition I.][561] | [C][561.1] <br> [Python][561.2] | Easy |
 | 605 | [Can Place Flowers][605] | [C][605.1] | Easy |
 
