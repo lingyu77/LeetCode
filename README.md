@@ -8,7 +8,8 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 ### Arrary
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
-| 1 | [Two Sum][1] | [C][1.1] <br> [Python][1.2] | Easy | [Python3 Data structure](https://docs.python.org/3/tutorial/datastructures.html)| 
+| 1 | [Two Sum][1] | [C][1.1] <br> [Python][1.2] | Easy | [Python3 Data structure][1.4]|
+| 26 | Remove Duplicates from Sorted Array][26] | [C][26.1]| Easy |
 | 561 | [Array Partition I.][561] | [C][561.1] <br> [Python][561.2] | Easy |
 | 605 | [Can Place Flowers][605] | [C][605.1] | Easy |
 
@@ -55,8 +56,16 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 | 412 | [Fizz Buzz][412] | [C][412.1] | Easy |
 | 504 | [Base 7][504] | [C][504.1] | Easy |
 
+[1]:https://leetcode.com/problems/two-sum/description/
+[1.1]:https://github.com/lingyu77/LeetCode/blob/master/C/1_TwoSum.c
+[1.2]:https://github.com/lingyu77/LeetCode/blob/master/Python%203/1_TwoSum.py
+[1.4]:https://docs.python.org/3/tutorial/datastructures.html
+
 [7]:https://leetcode.com/problems/reverse-integer/description/
 [7.1]:https://github.com/lingyu77/LeetCode/blob/master/C/7_ReverseInteger.c
+
+[26]:https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
+[26.1]:https://github.com/lingyu77/LeetCode/blob/master/C/27_RemoveElement.c
 
 [504]:https://leetcode.com/problems/base-7/description/
 [504.1]:https://github.com/lingyu77/LeetCode/blob/master/C/504_Base7.c
@@ -83,10 +92,6 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 [13]:https://leetcode.com/problems/roman-to-integer/description/
 [13.1]:https://github.com/lingyu77/LeetCode/blob/master/C/13_RomanToInteger.c
 [13.2]:https://github.com/lingyu77/LeetCode/blob/master/Python%203/13_RomanToInteger.py
-
-[1]:https://leetcode.com/problems/two-sum/description/
-[1.1]:https://github.com/lingyu77/LeetCode/blob/master/C/1_TwoSum.c
-[1.2]:https://github.com/lingyu77/LeetCode/blob/master/Python%203/1_TwoSum.py
 
 [461]:https://leetcode.com/problems/hamming-distance/description/
 [461.1]:https://github.com/lingyu77/LeetCode/blob/master/C/461_hammingDistance.c
