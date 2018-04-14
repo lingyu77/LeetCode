@@ -37,7 +37,7 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 ### Tree
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
-| 617 | [Merge Two Binary Trees][617] | [C][617.1] <br> [Python][617.2] | Easy |
+| 617 | [Merge Two Binary Trees][617] | [C][617.1] <br> [Python][617.2] | Easy | Recursion |
 
 ### Math
 | # | Title | Solutions | Difficulty | Note |
