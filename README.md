@@ -15,7 +15,7 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 ### Bit Manipulation
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
-| 461 | [Hamming Distance][461] | [C][461.1] <br> [Python][461.2] | Easy |
+| 461 | [Hamming Distance][461] | [C][461.1] <br> [Python][461.2] | Easy | Thinking[461.3] |
 | 476 | [NumberComplement][476] | [C][476.1] <br> [Python][476.2] | Easy |
 
 ### String
@@ -99,6 +99,7 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 [476]:https://leetcode.com/problems/number-complement/description/
 [476.1]:https://github.com/lingyu77/LeetCode/blob/master/C/476_NumberComplement.c
 [476.2]:https://github.com/lingyu77/LeetCode/blob/master/Python%203/476_NumberComplement.py
+[461.3]:https://smileandenjoyeverything.blogspot.co.uk/2017/12/leetcode-461-hamming-distance.html#more
 
 [561]:https://leetcode.com/problems/array-partition-i/
 [561.1]:https://github.com/lingyu77/LeetCode/blob/master/C/561_%20Array%20Partition%20I.c
