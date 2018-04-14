@@ -9,7 +9,7 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
 | 1 | [Two Sum][1] | [C][1.1] <br> [Python][1.2] | Easy | [Python3 Data structure][1.4]|
-| 26 | Remove Duplicates from Sorted Array][26] | [C][26.1]| Easy |
+| 26 | [Remove Duplicates from Sorted Array][26] | [C][26.1]| Easy |
 | 561 | [Array Partition I.][561] | [C][561.1] <br> [Python][561.2] | Easy |
 | 605 | [Can Place Flowers][605] | [C][605.1] | Easy |
 
@@ -65,7 +65,7 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 [7.1]:https://github.com/lingyu77/LeetCode/blob/master/C/7_ReverseInteger.c
 
 [26]:https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
-[26.1]:https://github.com/lingyu77/LeetCode/blob/master/C/27_RemoveElement.c
+[26.1]:https://github.com/lingyu77/LeetCode/blob/master/C/26_RemoveDuplicatesFromSortedArray.c
 
 [504]:https://leetcode.com/problems/base-7/description/
 [504.1]:https://github.com/lingyu77/LeetCode/blob/master/C/504_Base7.c
