@@ -56,6 +56,7 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 ### Stack
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
+| 20 | [Valid Parentheses][20] | [C][20.1] | Easy |
 | 682 | [Baseball Game][682] | [C][682.1] | Easy |
 
 ### Others
@@ -75,6 +76,9 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 [13]:https://leetcode.com/problems/roman-to-integer/description/
 [13.1]:https://github.com/lingyu77/LeetCode/blob/master/C/13_RomanToInteger.c
 [13.2]:https://github.com/lingyu77/LeetCode/blob/master/Python%203/13_RomanToInteger.py
+
+[20]:https://leetcode.com/problems/valid-parentheses/description/
+[20.1]:https://github.com/lingyu77/LeetCode/blob/master/C/20_ValidParentheses.c
 
 [26]:https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
 [26.1]:https://github.com/lingyu77/LeetCode/blob/master/C/26_RemoveDuplicatesFromSortedArray.c
