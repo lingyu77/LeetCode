@@ -22,6 +22,8 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 ### Bit Manipulation
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
+| 136 | [Single Number][136] | [C][136.1] <br> [Python][136.2] | Easy |
+| 231 | [Power of Two][231] | [C][231.1]| Easy |
 | 461 | [Hamming Distance][461] | [C][461.1] <br> [Python][461.2] | Easy | [Thinking][461.3] |
 | 476 | [NumberComplement][476] | [C][476.1] <br> [Python][476.2] | Easy |
 
@@ -31,10 +33,11 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 | 344 | [Reverse String][344] | [C][344.1] <br> [Python][344.2] | Easy |
 | 657 | [Judge Route Circle][657] | [C][657.1] <br> [Python][657.2] | Easy |
 
+
 ### Tree
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
-| 617 | [Merge Two Binary Trees][617] | [C][617.1] <br> [Python][617.2] | Easy |
+| 617 | [Merge Two Binary Trees][617] | [C][617.1] <br> [Python][617.2] | Easy | Recursion |
 
 ### Math
 | # | Title | Solutions | Difficulty | Note |
@@ -47,7 +50,6 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 ### Hash Table
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
-| 136 | [Single Number][136] | [C][136.1] <br> [Python][136.2]| Easy |
 | 500 | [Keyboard Row][500] | [C][500.1] | Easy |
 | 575 | [Distribute Candies][575] | [C][575.1] | Easy |
 
@@ -86,6 +88,9 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 
 [217]:https://leetcode.com/problems/contains-duplicate/description/
 [217.1]:https://github.com/lingyu77/LeetCode/blob/master/C/217_ContainsDuplicate.c
+
+[231]:https://leetcode.com/submissions/detail/135729399/
+[231.1]:https://github.com/lingyu77/LeetCode/blob/master/C/231_PowerOfTwo.c
 
 [268]:https://leetcode.com/problems/missing-number/description/
 [268.1]:https://github.com/lingyu77/LeetCode/blob/master/C/268_MissingNumber.c
