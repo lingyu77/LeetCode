@@ -12,6 +12,8 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 | 26 | [Remove Duplicates from Sorted Array][26] | [C][26.1]| Easy | in-space |
 | 561 | [Array Partition I.][561] | [C][561.1] <br> [Python][561.2] | Easy |
 | 605 | [Can Place Flowers][605] | [C][605.1] | Easy |
+| 766 | [Toeplitz Matrix][766] | [C][766.1] | Easy |
+
 
 ### Bit Manipulation
 | # | Title | Solutions | Difficulty | Note |
@@ -64,8 +66,35 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 [7]:https://leetcode.com/problems/reverse-integer/description/
 [7.1]:https://github.com/lingyu77/LeetCode/blob/master/C/7_ReverseInteger.c
 
+[13]:https://leetcode.com/problems/roman-to-integer/description/
+[13.1]:https://github.com/lingyu77/LeetCode/blob/master/C/13_RomanToInteger.c
+[13.2]:https://github.com/lingyu77/LeetCode/blob/master/Python%203/13_RomanToInteger.py
+
 [26]:https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
 [26.1]:https://github.com/lingyu77/LeetCode/blob/master/C/26_RemoveDuplicatesFromSortedArray.c
+
+[136]:https://leetcode.com/problems/single-number/description/
+[136.1]:https://github.com/lingyu77/LeetCode/blob/master/C/136_SingleNumber.c
+[136.2]:https://github.com/lingyu77/LeetCode/blob/master/Python%203/136_SingleNumber.py
+
+[344]:https://leetcode.com/problems/reverse-string/description/
+[344.1]:https://github.com/lingyu77/LeetCode/blob/master/C/344_Reverse%20String.c
+[344.2]:https://github.com/lingyu77/LeetCode/blob/master/Python%203/344_ReverseString.py
+
+[412]:https://leetcode.com/problems/fizz-buzz/description/
+[412.1]:https://github.com/lingyu77/LeetCode/blob/master/C/412_FizzBuzz.c
+
+[461]:https://leetcode.com/problems/hamming-distance/description/
+[461.1]:https://github.com/lingyu77/LeetCode/blob/master/C/461_hammingDistance.c
+[461.2]:https://github.com/lingyu77/LeetCode/blob/master/Python/461_hammingDistance.py
+[461.3]:https://smileandenjoyeverything.blogspot.co.uk/2017/12/leetcode-461-hamming-distance.html#more
+
+[476]:https://leetcode.com/problems/number-complement/description/
+[476.1]:https://github.com/lingyu77/LeetCode/blob/master/C/476_NumberComplement.c
+[476.2]:https://github.com/lingyu77/LeetCode/blob/master/Python%203/476_NumberComplement.py
+
+[500]:https://leetcode.com/problems/keyboard-row/
+[500.1]:https://github.com/lingyu77/LeetCode/blob/master/C/500_KeyboardRow.c
 
 [504]:https://leetcode.com/problems/base-7/description/
 [504.1]:https://github.com/lingyu77/LeetCode/blob/master/C/504_Base7.c
@@ -73,42 +102,12 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 [575]:https://leetcode.com/problems/distribute-candies/
 [575.1]:https://github.com/lingyu77/LeetCode/blob/master/C/575_DistributeCandies.c
 
-[682]:https://leetcode.com/problems/baseball-game/description/
-[682.1]:https://github.com/lingyu77/LeetCode/blob/master/C/682_BaseballGame.c
-
-[412]:https://leetcode.com/problems/fizz-buzz/description/
-[412.1]:https://github.com/lingyu77/LeetCode/blob/master/C/412_FizzBuzz.c
-
-[605]:https://leetcode.com/problems/can-place-flowers/description/
-[605.1]:https://github.com/lingyu77/LeetCode/blob/master/C/605_CanPlaceFlowers.c
-
-[500]:https://leetcode.com/problems/keyboard-row/
-[500.1]:https://github.com/lingyu77/LeetCode/blob/master/C/500_KeyboardRow.c
-
-[136]:https://leetcode.com/problems/single-number/description/
-[136.1]:https://github.com/lingyu77/LeetCode/blob/master/C/136_SingleNumber.c
-[136.2]:https://github.com/lingyu77/LeetCode/blob/master/Python%203/136_SingleNumber.py
-
-[13]:https://leetcode.com/problems/roman-to-integer/description/
-[13.1]:https://github.com/lingyu77/LeetCode/blob/master/C/13_RomanToInteger.c
-[13.2]:https://github.com/lingyu77/LeetCode/blob/master/Python%203/13_RomanToInteger.py
-
-[461]:https://leetcode.com/problems/hamming-distance/description/
-[461.1]:https://github.com/lingyu77/LeetCode/blob/master/C/461_hammingDistance.c
-[461.2]:https://github.com/lingyu77/LeetCode/blob/master/Python/461_hammingDistance.py
-
-[344]:https://leetcode.com/problems/reverse-string/description/
-[344.1]:https://github.com/lingyu77/LeetCode/blob/master/C/344_Reverse%20String.c
-[344.2]:https://github.com/lingyu77/LeetCode/blob/master/Python%203/344_ReverseString.py
-
-[476]:https://leetcode.com/problems/number-complement/description/
-[476.1]:https://github.com/lingyu77/LeetCode/blob/master/C/476_NumberComplement.c
-[476.2]:https://github.com/lingyu77/LeetCode/blob/master/Python%203/476_NumberComplement.py
-[461.3]:https://smileandenjoyeverything.blogspot.co.uk/2017/12/leetcode-461-hamming-distance.html#more
-
 [561]:https://leetcode.com/problems/array-partition-i/
 [561.1]:https://github.com/lingyu77/LeetCode/blob/master/C/561_%20ArrayPartitionI.c
 [561.2]:https://github.com/lingyu77/LeetCode/blob/master/Python%203/561_%20ArrayPartitionI.py
+
+[605]:https://leetcode.com/problems/can-place-flowers/description/
+[605.1]:https://github.com/lingyu77/LeetCode/blob/master/C/605_CanPlaceFlowers.c
 
 [617]:https://leetcode.com/problems/merge-two-binary-trees/description/
 [617.1]:https://github.com/lingyu77/LeetCode/blob/master/C/617_MergeTwoBinaryTrees.c
@@ -118,9 +117,14 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 [657.1]:https://github.com/lingyu77/LeetCode/blob/master/C/657_JudgeRouteCircle.c
 [657.2]:https://github.com/lingyu77/LeetCode/blob/master/Python%203/657_JudgeRouteCircle.py
 
+[682]:https://leetcode.com/problems/baseball-game/description/
+[682.1]:https://github.com/lingyu77/LeetCode/blob/master/C/682_BaseballGame.c
+
 [728]:https://leetcode.com/problems/self-dividing-numbers/description/
 [728.1]:https://github.com/lingyu77/LeetCode/blob/master/C/728_SelfDividingNumbers.c
 [728.2]:https://github.com/lingyu77/LeetCode/blob/master/Python%203/728_SelfDividingNumbers.py
 
+[766]:https://leetcode.com/problems/toeplitz-matrix/description/
+[766.1]:https://github.com/lingyu77/LeetCode/blob/master/C/766_ToeplitzMatrix.c
 
 > Written with [StackEdit](https://stackedit.io/).
