@@ -15,7 +15,7 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 ### Bit Manipulation
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
-| 461 | [Hamming Distance][461] | [C][461.1] <br> [Python][461.2] | Easy | Thinking[461.3] |
+| 461 | [Hamming Distance][461] | [C][461.1] <br> [Python][461.2] | Easy | [Thinking][461.3] |
 | 476 | [NumberComplement][476] | [C][476.1] <br> [Python][476.2] | Easy |
 
 ### String
