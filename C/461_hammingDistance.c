@@ -20,7 +20,6 @@ Explanation:
 
 The above arrows point to positions where the corresponding bits are different.
 */
-
 int hammingDistance(int x, int y) {
     int distance = 0;
     int value = x ^ y;
@@ -28,7 +27,7 @@ int hammingDistance(int x, int y) {
     while (value != 0)
     {
         distance++;
-        value &= value - 1;
+        value &= value - 1; // Key point : count how many bit 1
     }
   
     return distance;   

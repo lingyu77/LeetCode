@@ -17,6 +17,7 @@ return [0, 1].
 /**
  * Note: The returned array must be malloced, assume caller calls free().
  */
+//Soultion 1 : Brute Force. Time complexity : O(n^2).
 int* twoSum(int* nums, int numsSize, int target) {
     int i = 0;
     int j = 0;
