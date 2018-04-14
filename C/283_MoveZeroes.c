@@ -15,6 +15,7 @@ Minimize the total number of operations.
 void moveZeroes(int* nums, int numsSize) {
      int i = 0, length = 0;
      
+     //Find non-zero elements
      for (i = 0; i < numsSize; i++)
      {
          if (nums[i] != 0)
@@ -23,6 +24,7 @@ void moveZeroes(int* nums, int numsSize) {
          }
      }
      
+     //Fill the rest of element with zero
      for (i = length; i < numsSize; i++)
      {
          nums[length++] = 0;

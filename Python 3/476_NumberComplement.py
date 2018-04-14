@@ -20,3 +20,13 @@ class Solution:
         msk=int(msk,2) # int(x, base=10)
         print(msk)
         return msk^num
+
+    def findComplement3(self, num):
+        """
+        :type num: int
+        :rtype: int
+        """
+        i = 1
+        while i <= num:
+            i = i << 1
+        return (i - 1) ^ num        

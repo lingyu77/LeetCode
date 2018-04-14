@@ -17,7 +17,7 @@ Output: 0
 Explanation: The binary representation of 1 is 1 (no leading zero bits), and its
  complement is 0. So you need to output 0.
 */
-
+// 3 ms
 int findComplement(int num) {
     unsigned int base = 1;
     
@@ -26,4 +26,19 @@ int findComplement(int num) {
         base <<= 1;      
     }   
     return (base - 1) ^ num;
+}
+
+// 0ms Reference
+int findComplement2(int num) {
+    int b, i = 1,sum = 0;
+	while (num){
+		b = num % 2;
+		if (b == 1)b = 0;
+		else b = 1;
+		b *= i;
+		i *= 2;
+		num /= 2;
+		sum += b;
+	}
+	return sum;
 }
