@@ -8,7 +8,7 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 ### Arrary
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
-| 1 | [Two Sum][1] | [C][1.1] <br> [Python][1.2] | Easy | [Python3 Data structure][1.4]|
+| 1 | [Two Sum][1] | [C][1.1] <br> [Python][1.2] | Easy | [TO DO] C Hash table solution <br> [Python3 Data structure][1.4]|
 | 26 | [Remove Duplicates from Sorted Array][26] | [C][26.1]| Easy | in-space |
 | 27 | [Remove Element][27] | [C][27.1] | Easy | in-space | 
 | 217 | [Contains Duplicate][217] | [C][217.1] | Easy | Math |
