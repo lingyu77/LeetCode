@@ -10,9 +10,14 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 | ------ | ------ | ------ | ------ |------ |
 | 1 | [Two Sum][1] | [C][1.1] <br> [Python][1.2] | Easy | [Python3 Data structure][1.4]|
 | 26 | [Remove Duplicates from Sorted Array][26] | [C][26.1]| Easy | in-space |
+| 27 | [Remove Element][27] | [C][27.1] | Easy | in-space |
+| 217 | [Contains Duplicate][217] | [C][217.1] | Easy | Math |
+| 268 | [Missing Number][268] | [C][268.1] | Easy | Math |
+| 283 | [Move Zeroes][283] | [C][283.1] | Easy | Math |
+| 485 | [Max Consecutive Ones][485] | [C][485.1] | Easy | Math |
 | 561 | [Array Partition I.][561] | [C][561.1] <br> [Python][561.2] | Easy |
 | 605 | [Can Place Flowers][605] | [C][605.1] | Easy |
-| 766 | [Toeplitz Matrix][766] | [C][766.1] | Easy |
+| 766 | [Toeplitz Matrix][766] | [C][766.1] | Easy | Math |
 
 
 ### Bit Manipulation
@@ -73,9 +78,22 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 [26]:https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
 [26.1]:https://github.com/lingyu77/LeetCode/blob/master/C/26_RemoveDuplicatesFromSortedArray.c
 
+[27]:https://leetcode.com/problems/remove-element/description/
+[27.1]:https://github.com/lingyu77/LeetCode/blob/master/C/27_RemoveElement.c
+
+
 [136]:https://leetcode.com/problems/single-number/description/
 [136.1]:https://github.com/lingyu77/LeetCode/blob/master/C/136_SingleNumber.c
 [136.2]:https://github.com/lingyu77/LeetCode/blob/master/Python%203/136_SingleNumber.py
+
+[217]:https://leetcode.com/problems/contains-duplicate/description/
+[217.1]:https://github.com/lingyu77/LeetCode/blob/master/C/217_ContainsDuplicate.c
+
+[268]:https://leetcode.com/problems/missing-number/description/
+[268.1]:https://github.com/lingyu77/LeetCode/blob/master/C/268_MissingNumber.c
+
+[283]:https://leetcode.com/problems/move-zeroes/description/
+[283.1]:https://github.com/lingyu77/LeetCode/blob/master/C/283_MoveZeroes.c
 
 [344]:https://leetcode.com/problems/reverse-string/description/
 [344.1]:https://github.com/lingyu77/LeetCode/blob/master/C/344_Reverse%20String.c
@@ -92,6 +110,9 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 [476]:https://leetcode.com/problems/number-complement/description/
 [476.1]:https://github.com/lingyu77/LeetCode/blob/master/C/476_NumberComplement.c
 [476.2]:https://github.com/lingyu77/LeetCode/blob/master/Python%203/476_NumberComplement.py
+
+[485]:https://leetcode.com/problems/max-consecutive-ones/description/
+[485.1]:https://github.com/lingyu77/LeetCode/blob/master/C/485_MaxConsecutiveOnes.c
 
 [500]:https://leetcode.com/problems/keyboard-row/
 [500.1]:https://github.com/lingyu77/LeetCode/blob/master/C/500_KeyboardRow.c
