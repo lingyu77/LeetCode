@@ -13,7 +13,7 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 | 27 | [Remove Element][27] | [C][27.1] | Easy | in-space | 
 | 217 | [Contains Duplicate][217] | [C][217.1] | Easy | Math |
 | 268 | [Missing Number][268] | [C][268.1] | Easy | Math |
-| 283 | [Move Zeroes][283] | [C][283.1] | Easy | Similar wirh 27 |
+| 283 | [Move Zeroes][283] | [C][283.1] | Easy | Similar with 27 |
 | 485 | [Max Consecutive Ones][485] | [C][485.1] | Easy | Math |
 | 561 | [Array Partition I.][561] | [C][561.1] <br> [Python][561.2] | Easy |
 | 605 | [Can Place Flowers][605] | [C][605.1] | Easy |
