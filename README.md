@@ -102,7 +102,7 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 [461.3]:https://smileandenjoyeverything.blogspot.co.uk/2017/12/leetcode-461-hamming-distance.html#more
 
 [561]:https://leetcode.com/problems/array-partition-i/
-[561.1]:https://github.com/lingyu77/LeetCode/blob/master/C/561_%20Array%20Partition%20I.c
+[561.1]:https://github.com/lingyu77/LeetCode/blob/master/C/561_%20ArrayPartitionI.c
 [561.2]:https://github.com/lingyu77/LeetCode/blob/master/Python%203/561_%20ArrayPartitionI.py
 
 [617]:https://leetcode.com/problems/merge-two-binary-trees/description/
