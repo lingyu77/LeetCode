@@ -32,3 +32,9 @@ int firstUniqChar(char* s) {
     
     return (-1);
 }
+
+/* 
+Memo: 
+It reduces performance if we write subfunction in if statement.
+e.g. 'for (i = 0; i < strlen(s); i++)'.
+*/
