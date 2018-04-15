@@ -1,4 +1,5 @@
 /*
+657. Judge Route Circle
 Initially, there is a Robot at position (0, 0). Given a sequence of its moves, 
 judge if this robot makes a circle, which means it moves back to the original place.
 
@@ -13,7 +14,7 @@ Example 2:
 Input: "LL"
 Output: false 
 */
-
+// 6 ms
 bool judgeCircle(char* moves) {
     int horizontal = 0;
     int vertical = 0;

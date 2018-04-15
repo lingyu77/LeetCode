@@ -35,6 +35,6 @@ int firstUniqChar(char* s) {
 
 /* 
 Memo: 
-It reduces performance if we write subfunction in if statement.
+It reduces performance if we write subfunction in 'for' statement.
 e.g. 'for (i = 0; i < strlen(s); i++)'.
 */
