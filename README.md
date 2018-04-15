@@ -31,6 +31,7 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
 | 344 | [Reverse String][344] | [C][344.1] <br> [Python][344.2] | Easy |
+| 520 | [Detect Capital][520] | [C][520.1] | Easy |
 | 657 | [Judge Route Circle][657] | [C][657.1] <br> [Python][657.2] | Easy |
 
 
@@ -56,6 +57,7 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 ### Stack
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
+| 20 | [Valid Parentheses][20] | [C][20.1] | Easy |
 | 682 | [Baseball Game][682] | [C][682.1] | Easy |
 
 ### Others
@@ -75,6 +77,9 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 [13]:https://leetcode.com/problems/roman-to-integer/description/
 [13.1]:https://github.com/lingyu77/LeetCode/blob/master/C/13_RomanToInteger.c
 [13.2]:https://github.com/lingyu77/LeetCode/blob/master/Python%203/13_RomanToInteger.py
+
+[20]:https://leetcode.com/problems/valid-parentheses/description/
+[20.1]:https://github.com/lingyu77/LeetCode/blob/master/C/20_ValidParentheses.c
 
 [26]:https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
 [26.1]:https://github.com/lingyu77/LeetCode/blob/master/C/26_RemoveDuplicatesFromSortedArray.c
@@ -122,6 +127,9 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 
 [504]:https://leetcode.com/problems/base-7/description/
 [504.1]:https://github.com/lingyu77/LeetCode/blob/master/C/504_Base7.c
+
+[520]:https://leetcode.com/problems/detect-capital/description/
+[520.1]:https://github.com/lingyu77/LeetCode/blob/master/C/520_DetectCapital.c
 
 [575]:https://leetcode.com/problems/distribute-candies/
 [575.1]:https://github.com/lingyu77/LeetCode/blob/master/C/575_DistributeCandies.c
