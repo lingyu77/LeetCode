@@ -11,8 +11,11 @@ All letters in this word are not capitals, like "leetcode".
 Only the first letter in this word is capital if it has more than one letter, like "Google".
 Otherwise, we define that this word doesn't use capitals in a right way.
 */
+#define CAPITAL_START_A 65 
+#define CAPTTAL_END_Z 90
+
 bool isCapital(char character) {
-     if (character >= 65 && character <= 90)
+     if (character >= CAPITAL_START_A && character <= CAPTTAL_END_Z)
      {
          return true;                   
      } 
