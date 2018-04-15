@@ -30,16 +30,18 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 ### String
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
+| 58 | [Length of Last Word][58] | [C][58.1] | Easy |
 | 344 | [Reverse String][344] | [C][344.1] <br> [Python][344.2] | Easy |
 | 387 | [First Unique Character in a String][387] | [C][387.1] | Easy | It reduces performance if we write subfunction in 'for' statement.|
 | 520 | [Detect Capital][520] | [C][520.1] | Easy |
-| 657 | [Judge Route Circle][657] | [C][657.1] <br> [Python][657.2] | Easy |
-
+| 557 | [Reverse Words in a String III][557] | [C][557.1] | Easy |
+| 657 | [Judge Route Circle][657] | [C][657.1] <br> [Python][657.2] | Easy | [Thinking][657.4]|
+| 788 | [Rotated Digits][788] | [C][788.1] | Easy | Math|
 
 ### Tree
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
-| 617 | [Merge Two Binary Trees][617] | [C][617.1] <br> [Python][617.2] | Easy | Recursion |
+| 617 | [Merge Two Binary Trees][617] | [C][617.1] <br> [Python][617.2] | Easy | Recursion. [Thinking][617.4]|
 
 ### Math
 | # | Title | Solutions | Difficulty | Note |
@@ -88,6 +90,9 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 [27]:https://leetcode.com/problems/remove-element/description/
 [27.1]:https://github.com/lingyu77/LeetCode/blob/master/C/27_RemoveElement.c
 
+[58]:https://leetcode.com/problems/length-of-last-word/description/
+[58.1]:https://github.com/lingyu77/LeetCode/blob/master/C/58_LengthOfLastWord.c
+
 [136]:https://leetcode.com/problems/single-number/description/
 [136.1]:https://github.com/lingyu77/LeetCode/blob/master/C/136_SingleNumber.c
 [136.2]:https://github.com/lingyu77/LeetCode/blob/master/Python%203/136_SingleNumber.py
@@ -135,12 +140,15 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 [520]:https://leetcode.com/problems/detect-capital/description/
 [520.1]:https://github.com/lingyu77/LeetCode/blob/master/C/520_DetectCapital.c
 
-[575]:https://leetcode.com/problems/distribute-candies/
-[575.1]:https://github.com/lingyu77/LeetCode/blob/master/C/575_DistributeCandies.c
+[557]:https://leetcode.com/problems/reverse-words-in-a-string-iii/description/
+[557.1]:https://github.com/lingyu77/LeetCode/blob/master/C/557_ReverseWordsInAStringIII.c
 
 [561]:https://leetcode.com/problems/array-partition-i/
 [561.1]:https://github.com/lingyu77/LeetCode/blob/master/C/561_%20ArrayPartitionI.c
 [561.2]:https://github.com/lingyu77/LeetCode/blob/master/Python%203/561_%20ArrayPartitionI.py
+
+[575]:https://leetcode.com/problems/distribute-candies/
+[575.1]:https://github.com/lingyu77/LeetCode/blob/master/C/575_DistributeCandies.c
 
 [605]:https://leetcode.com/problems/can-place-flowers/description/
 [605.1]:https://github.com/lingyu77/LeetCode/blob/master/C/605_CanPlaceFlowers.c
@@ -148,10 +156,12 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 [617]:https://leetcode.com/problems/merge-two-binary-trees/description/
 [617.1]:https://github.com/lingyu77/LeetCode/blob/master/C/617_MergeTwoBinaryTrees.c
 [617.2]:https://github.com/lingyu77/LeetCode/blob/master/Python%203/617_MergeTwoBinaryTrees.py
+[617.4]:https://smileandenjoyeverything.blogspot.co.uk/2017/12/leetcode-617-merge-two-binary-trees.html#more
 
 [657]:https://leetcode.com/problems/judge-route-circle/
 [657.1]:https://github.com/lingyu77/LeetCode/blob/master/C/657_JudgeRouteCircle.c
 [657.2]:https://github.com/lingyu77/LeetCode/blob/master/Python%203/657_JudgeRouteCircle.py
+[657.4]:https://smileandenjoyeverything.blogspot.co.uk/2017/12/leetcode-657-judge-route-circle.html
 
 [682]:https://leetcode.com/problems/baseball-game/description/
 [682.1]:https://github.com/lingyu77/LeetCode/blob/master/C/682_BaseballGame.c
@@ -162,5 +172,8 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 
 [766]:https://leetcode.com/problems/toeplitz-matrix/description/
 [766.1]:https://github.com/lingyu77/LeetCode/blob/master/C/766_ToeplitzMatrix.c
+
+[788]:https://leetcode.com/problems/rotated-digits/description/
+[788.1]:https://github.com/lingyu77/LeetCode/blob/master/C/788_RotatedDigits.c
 
 > Written with [StackEdit](https://stackedit.io/).
