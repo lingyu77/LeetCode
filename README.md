@@ -31,6 +31,7 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
 | 344 | [Reverse String][344] | [C][344.1] <br> [Python][344.2] | Easy |
+| 520 | [Detect Capital][520] | [C][520.1] | Easy |
 | 657 | [Judge Route Circle][657] | [C][657.1] <br> [Python][657.2] | Easy |
 
 
@@ -126,6 +127,9 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 
 [504]:https://leetcode.com/problems/base-7/description/
 [504.1]:https://github.com/lingyu77/LeetCode/blob/master/C/504_Base7.c
+
+[520]:https://leetcode.com/problems/detect-capital/description/
+[520.1]:https://github.com/lingyu77/LeetCode/blob/master/C/520_DetectCapital.c
 
 [575]:https://leetcode.com/problems/distribute-candies/
 [575.1]:https://github.com/lingyu77/LeetCode/blob/master/C/575_DistributeCandies.c
