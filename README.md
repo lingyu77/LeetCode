@@ -46,8 +46,9 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 ### Math
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
-| 7   | [Reverse Integer][7] | [C][7.1] | Easy |
+| 7  | [Reverse Integer][7] | [C][7.1] | Easy |
 | 13 | [Roman to Integer][13] | [C][13.1] <br> [Python][13.2] | Easy |
+| 258 | [Add Digits][258] | [C][258.1] | Easy |
 | 728 | [Self Dividing Numbers][728] | [C][728.1] <br> [Python][728.2] | Easy |
 
 
@@ -100,8 +101,11 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 [217]:https://leetcode.com/problems/contains-duplicate/description/
 [217.1]:https://github.com/lingyu77/LeetCode/blob/master/C/217_ContainsDuplicate.c
 
-[231]:https://leetcode.com/submissions/detail/135729399/
+[231]:https://leetcode.com/problems/power-of-two/description/
 [231.1]:https://github.com/lingyu77/LeetCode/blob/master/C/231_PowerOfTwo.c
+
+[258]:https://leetcode.com/problems/add-digits/description/
+[258.1]:https://github.com/lingyu77/LeetCode/blob/master/C/258_AddDigits.c
 
 [268]:https://leetcode.com/problems/missing-number/description/
 [268.1]:https://github.com/lingyu77/LeetCode/blob/master/C/268_MissingNumber.c
