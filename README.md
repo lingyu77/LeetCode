@@ -31,6 +31,7 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
 | 344 | [Reverse String][344] | [C][344.1] <br> [Python][344.2] | Easy |
+| 387 | [First Unique Character in a String][387] | [C][387.1] | Easy |
 | 520 | [Detect Capital][520] | [C][520.1] | Easy |
 | 657 | [Judge Route Circle][657] | [C][657.1] <br> [Python][657.2] | Easy |
 
@@ -106,6 +107,9 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 [344]:https://leetcode.com/problems/reverse-string/description/
 [344.1]:https://github.com/lingyu77/LeetCode/blob/master/C/344_Reverse%20String.c
 [344.2]:https://github.com/lingyu77/LeetCode/blob/master/Python%203/344_ReverseString.py
+
+[387]:https://leetcode.com/problems/first-unique-character-in-a-string/description/
+[387.1]:https://github.com/lingyu77/LeetCode/blob/master/C/387_FirstUniqueCharacterInAString.c
 
 [412]:https://leetcode.com/problems/fizz-buzz/description/
 [412.1]:https://github.com/lingyu77/LeetCode/blob/master/C/412_FizzBuzz.c
