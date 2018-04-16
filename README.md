@@ -55,14 +55,28 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 ### Hash Table
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
+| 242 | [Valid Anagram][242] | [C][242.1] | Easy |
 | 500 | [Keyboard Row][500] | [C][500.1] | Easy |
 | 575 | [Distribute Candies][575] | [C][575.1] | Easy |
+| 771 | [Jewels and Stones][771] | [C][771.1] | Easy |
 
 ### Stack
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
 | 20 | [Valid Parentheses][20] | [C][20.1] | Easy |
 | 682 | [Baseball Game][682] | [C][682.1] | Easy |
+
+### Linked List
+| # | Title | Solutions | Difficulty | Note |
+| ------ | ------ | ------ | ------ |------ |
+| 21 | [Merge Two Sorted Lists][21] | [C][21.1] | Easy |
+| 83 | [Remove Duplicates from Sorted List][83] | [C][83.1] | Easy |
+| 141 | [Linked List Cycle][141] | [C][141.1] | Easy |
+| 160 | [Intersection of Two Linked Lists][160] | [C][160.1] | Easy |
+| 203 | [Remove Duplicates from Sorted List][203] | [C][203.1] | Easy |
+| 206 | [Reverse Linked List][206] | [C][206.1] | Easy |
+| 234 | [Palindrome Linked List][234] | [C][234.1] | Easy |
+| 237 | [Delete Node in a Linked List][237] | [C][237.1] | Easy |
 
 ### Others
 | # | Title | Solutions | Difficulty | Note |
@@ -85,6 +99,9 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 [20]:https://leetcode.com/problems/valid-parentheses/description/
 [20.1]:https://github.com/lingyu77/LeetCode/blob/master/C/20_ValidParentheses.c
 
+[21]:https://leetcode.com/problems/merge-two-sorted-lists/description/
+[21.1]:https://github.com/lingyu77/LeetCode/blob/master/C/21_MergeTwoSortedLists.c
+
 [26]:https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
 [26.1]:https://github.com/lingyu77/LeetCode/blob/master/C/26_RemoveDuplicatesFromSortedArray.c
 
@@ -94,15 +111,39 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 [58]:https://leetcode.com/problems/length-of-last-word/description/
 [58.1]:https://github.com/lingyu77/LeetCode/blob/master/C/58_LengthOfLastWord.c
 
+[83]:https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
+[83.1]:https://github.com/lingyu77/LeetCode/blob/master/C/83_RemoveDuplicatesFromSortedList.c
+
 [136]:https://leetcode.com/problems/single-number/description/
 [136.1]:https://github.com/lingyu77/LeetCode/blob/master/C/136_SingleNumber.c
 [136.2]:https://github.com/lingyu77/LeetCode/blob/master/Python%203/136_SingleNumber.py
+
+[141]:https://leetcode.com/problems/linked-list-cycle/description/
+[141.1]:https://github.com/lingyu77/LeetCode/blob/master/C/141_LinkedListCycle.c
+
+[160]:https://leetcode.com/problems/intersection-of-two-linked-lists/description/
+[160.1]:https://github.com/lingyu77/LeetCode/blob/master/C/160_IntersectionOfTwoLinkedLists.c
+
+[203]:https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
+[203.1]:https://github.com/lingyu77/LeetCode/blob/master/C/203_RemoveLinkedListElements.c
+
+[206]:https://leetcode.com/problems/reverse-linked-list/description/
+[206.1]:https://github.com/lingyu77/LeetCode/blob/master/C/206_ReverseLinkedList.c
 
 [217]:https://leetcode.com/problems/contains-duplicate/description/
 [217.1]:https://github.com/lingyu77/LeetCode/blob/master/C/217_ContainsDuplicate.c
 
 [231]:https://leetcode.com/problems/power-of-two/description/
 [231.1]:https://github.com/lingyu77/LeetCode/blob/master/C/231_PowerOfTwo.c
+
+[234]:https://leetcode.com/problems/palindrome-linked-list/description/
+[234.1]:https://github.com/lingyu77/LeetCode/blob/master/C/234_PalindromeLinkedList.c
+
+[237]:https://leetcode.com/problems/delete-node-in-a-linked-list/description/
+[237.1]:https://github.com/lingyu77/LeetCode/blob/master/C/237_DeleteNodeInALinkedList.c
+
+[242]:https://leetcode.com/problems/valid-anagram/description/
+[242.1]:https://github.com/lingyu77/LeetCode/blob/master/C/242_ValidAnagram.c
 
 [258]:https://leetcode.com/problems/add-digits/description/
 [258.1]:https://github.com/lingyu77/LeetCode/blob/master/C/258_AddDigits.c
@@ -169,6 +210,9 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 
 [682]:https://leetcode.com/problems/baseball-game/description/
 [682.1]:https://github.com/lingyu77/LeetCode/blob/master/C/682_BaseballGame.c
+
+[771]:https://leetcode.com/problems/jewels-and-stones/
+[771.1]:https://github.com/lingyu77/LeetCode/blob/master/C/771_JewelsandStones.c
 
 [728]:https://leetcode.com/problems/self-dividing-numbers/description/
 [728.1]:https://github.com/lingyu77/LeetCode/blob/master/C/728_SelfDividingNumbers.c
