@@ -14,6 +14,12 @@ Follow up:
 What if the inputs contain unicode characters? How would you adapt your 
 solution to such case?
 */
+
+/*
+Definition:
+Anagram : a word or phrase made by using the letters of another word or phrase 
+in a different order           
+*/
 //34 ms
 bool isAnagram(char* s, char* t) {
    int letter[26] = {0}, i = 0;
