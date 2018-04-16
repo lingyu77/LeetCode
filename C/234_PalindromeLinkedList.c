@@ -12,6 +12,11 @@ Could you do it in O(n) time and O(1) space?
  *     struct ListNode *next;
  * };
  */
+ /*
+ Definition : Palindrome
+ A palindrome is a word, phrase, number, or other sequence of characters which 
+ reads the same backward as forward, such as madam or racecar.
+ */
 //8 ms
 bool isPalindrome(struct ListNode* head) {
     struct ListNode *fast = head, *slow = head;
@@ -64,7 +69,7 @@ bool isPalindrome(struct ListNode* head) {
     return true;  
 }
 
-//Sample
+//Reference
 bool isPalindrome2(struct ListNode* head) {
     struct ListNode* reverse = NULL;
     struct ListNode *slow = head;
