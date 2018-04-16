@@ -24,6 +24,7 @@ Note:
 The length of the given array is in range [2, 10,000], and will be even.
 The number in given array is in range [-100,000, 100,000].
 */
+//1077 ms
 # define KIND_MAX 100001
 
 int distributeCandies(int* candies, int candiesSize) {
@@ -59,6 +60,7 @@ int distributeCandies(int* candies, int candiesSize) {
     return kind;
 }
 
+//hash : 48 ms
 int distributeCandies2(int* candies, int candiesSize) {
     int max = candiesSize >> 1;
     
