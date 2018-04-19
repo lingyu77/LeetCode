@@ -53,7 +53,6 @@ int* plusOne(int* digits, int digitsSize, int* returnSize) {
          newInteger = (int*)malloc((*returnSize) * sizeof(int));
          memcpy(newInteger, digits, sizeof(int) * (digitsSize));
      }
-
      
      return newInteger; 
 }
