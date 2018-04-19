@@ -11,6 +11,7 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 | 1 | [Two Sum][1] | [C][1.1] <br> [Python][1.2] | Easy | [TO DO] C Hash table solution <br> [Python3 Data structure][1.4]|
 | 26 | [Remove Duplicates from Sorted Array][26] | [C][26.1]| Easy | in-space |
 | 27 | [Remove Element][27] | [C][27.1] | Easy | in-space | 
+| 66 | [Plus One][66] | [C][66.1] | Easy | Note : memcpy usage |
 | 217 | [Contains Duplicate][217] | [C][217.1] | Easy | Math |
 | 268 | [Missing Number][268] | [C][268.1] | Easy | Math |
 | 283 | [Move Zeroes][283] | [C][283.1] | Easy | Similar with 27 |
@@ -110,6 +111,9 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 
 [58]:https://leetcode.com/problems/length-of-last-word/description/
 [58.1]:https://github.com/lingyu77/LeetCode/blob/master/C/58_LengthOfLastWord.c
+
+[66]:https://leetcode.com/problems/plus-one/description/
+[66.1]:https://github.com/lingyu77/LeetCode/blob/master/C/66_PlusOne.c
 
 [83]:https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
 [83.1]:https://github.com/lingyu77/LeetCode/blob/master/C/83_RemoveDuplicatesFromSortedList.c
