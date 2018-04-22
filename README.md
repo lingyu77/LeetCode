@@ -19,6 +19,7 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 | 561 | [Array Partition I.][561] | [C][561.1] <br> [Python][561.2] | Easy |
 | 605 | [Can Place Flowers][605] | [C][605.1] | Easy |
 | 628 | [Maximum Product of Three Numbers][628] | [C][628.1] | Easy |
+| 747 | [Largest Number At Least Twice of Others][747] | [C][747.1] | Easy | Math |
 | 766 | [Toeplitz Matrix][766] | [C][766.1] | Easy | Math |
 
 ### Bit Manipulation
@@ -225,6 +226,9 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 [728]:https://leetcode.com/problems/self-dividing-numbers/description/
 [728.1]:https://github.com/lingyu77/LeetCode/blob/master/C/728_SelfDividingNumbers.c
 [728.2]:https://github.com/lingyu77/LeetCode/blob/master/Python%203/728_SelfDividingNumbers.py
+
+[747]:https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/
+[747.1]:https://github.com/lingyu77/LeetCode/blob/master/C/747_LargestNumberAtLeastTwiceOfOthers.c
 
 [766]:https://leetcode.com/problems/toeplitz-matrix/description/
 [766.1]:https://github.com/lingyu77/LeetCode/blob/master/C/766_ToeplitzMatrix.c
