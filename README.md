@@ -15,6 +15,7 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 | 217 | [Contains Duplicate][217] | [C][217.1] | Easy | Math |
 | 268 | [Missing Number][268] | [C][268.1] | Easy | Math |
 | 283 | [Move Zeroes][283] | [C][283.1] | Easy | Similar with 27 |
+| 442 | [Find All Duplicates in an Array][442] | [C][442.1] | Medium | Math |
 | 485 | [Max Consecutive Ones][485] | [C][485.1] | Easy | Math |
 | 561 | [Array Partition I.][561] | [C][561.1] <br> [Python][561.2] | Easy |
 | 605 | [Can Place Flowers][605] | [C][605.1] | Easy |
@@ -168,7 +169,10 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 [387.1]:https://github.com/lingyu77/LeetCode/blob/master/C/387_FirstUniqueCharacterInAString.c
 
 [412]:https://leetcode.com/problems/fizz-buzz/description/
-[412.1]:https://github.com/lingyu77/LeetCode/blob/master/C/412_FizzBuzz.c
+[412.1]:https://github.com/lingyu77/LeetCode/blob/master/C/442_FindAllDuplicatesInAnArray.c
+
+[442]:https://leetcode.com/problems/find-all-duplicates-in-an-array/description/
+[442.1]:https://github.com/lingyu77/LeetCode/blob/master/C/412_FizzBuzz.c
 
 [461]:https://leetcode.com/problems/hamming-distance/description/
 [461.1]:https://github.com/lingyu77/LeetCode/blob/master/C/461_hammingDistance.c
