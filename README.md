@@ -18,6 +18,7 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 | 485 | [Max Consecutive Ones][485] | [C][485.1] | Easy | Math |
 | 561 | [Array Partition I.][561] | [C][561.1] <br> [Python][561.2] | Easy |
 | 605 | [Can Place Flowers][605] | [C][605.1] | Easy |
+| 628 | [Maximum Product of Three Numbers][628] | [C][628.1] | Easy |
 | 766 | [Toeplitz Matrix][766] | [C][766.1] | Easy | Math |
 
 ### Bit Manipulation
@@ -206,6 +207,9 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 [617.1]:https://github.com/lingyu77/LeetCode/blob/master/C/617_MergeTwoBinaryTrees.c
 [617.2]:https://github.com/lingyu77/LeetCode/blob/master/Python%203/617_MergeTwoBinaryTrees.py
 [617.4]:https://smileandenjoyeverything.blogspot.co.uk/2017/12/leetcode-617-merge-two-binary-trees.html#more
+
+[628]:https://leetcode.com/problems/maximum-product-of-three-numbers/description/
+[628.1]:https://github.com/lingyu77/LeetCode/blob/master/C/628_MaximumProductOfThreeNumbers.c
 
 [657]:https://leetcode.com/problems/judge-route-circle/
 [657.1]:https://github.com/lingyu77/LeetCode/blob/master/C/657_JudgeRouteCircle.c
