@@ -40,7 +40,7 @@ int* findDuplicates(int* nums, int numsSize, int* returnSize) {
     return returnArray;
 }
 
-// REference
+// Reference
 int* findDuplicates2(int* nums, int numsSize, int* returnSize) {
     int *result = NULL, i, j = 0;
     
