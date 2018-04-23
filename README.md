@@ -12,6 +12,7 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 | 26 | [Remove Duplicates from Sorted Array][26] | [C][26.1]| Easy | in-space |
 | 27 | [Remove Element][27] | [C][27.1] | Easy | in-space | 
 | 66 | [Plus One][66] | [C][66.1] | Easy | Note : memcpy usage |
+| 167 | [Two Sum II - Input array is sorted][167] | [C][167.1] | Easy | 
 | 217 | [Contains Duplicate][217] | [C][217.1] | Easy | Math |
 | 268 | [Missing Number][268] | [C][268.1] | Easy | Math |
 | 283 | [Move Zeroes][283] | [C][283.1] | Easy | Similar with 27 |
@@ -45,6 +46,8 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 ### Tree
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
+| 100  | [Same Tree][100] | [C][100.1] | Easy | Recursion.|
+| 104  | [Maximum Depth of Binary Tree][104] | [C][104.1] | Easy | Recursion. Depth-first Search |
 | 617 | [Merge Two Binary Trees][617] | [C][617.1] <br> [Python][617.2] | Easy | Recursion. [Thinking][617.4]|
 
 ### Math
@@ -121,6 +124,12 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 [83]:https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
 [83.1]:https://github.com/lingyu77/LeetCode/blob/master/C/83_RemoveDuplicatesFromSortedList.c
 
+[100]:https://leetcode.com/problems/same-tree/description/
+[100.1]:https://github.com/lingyu77/LeetCode/blob/master/C/100_SameTree.c
+
+[104]:https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
+[104.1]:https://github.com/lingyu77/LeetCode/blob/master/C/104_MaximumDepthOfBinaryTree.c
+
 [136]:https://leetcode.com/problems/single-number/description/
 [136.1]:https://github.com/lingyu77/LeetCode/blob/master/C/136_SingleNumber.c
 [136.2]:https://github.com/lingyu77/LeetCode/blob/master/Python%203/136_SingleNumber.py
@@ -130,6 +139,9 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 
 [160]:https://leetcode.com/problems/intersection-of-two-linked-lists/description/
 [160.1]:https://github.com/lingyu77/LeetCode/blob/master/C/160_IntersectionOfTwoLinkedLists.c
+
+[167]:https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
+[167.1]:https://github.com/lingyu77/LeetCode/blob/master/C/167_TwoSumIIInputArrayIsSorted.c
 
 [203]:https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
 [203.1]:https://github.com/lingyu77/LeetCode/blob/master/C/203_RemoveLinkedListElements.c
