@@ -38,6 +38,7 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 | 58 | [Length of Last Word][58] | [C][58.1] | Easy |
 | 344 | [Reverse String][344] | [C][344.1] <br> [Python][344.2] | Easy |
 | 387 | [First Unique Character in a String][387] | [C][387.1] | Easy | It reduces performance if we write subfunction in 'for' statement.|
+| 434 | [Number of Segments in a String][434] | [C][434.1] | Easy | strtok |
 | 520 | [Detect Capital][520] | [C][520.1] | Easy |
 | 557 | [Reverse Words in a String III][557] | [C][557.1] | Easy |
 | 657 | [Judge Route Circle][657] | [C][657.1] <br> [Python][657.2] | Easy | [Thinking][657.4]|
@@ -182,6 +183,9 @@ Practise coding skills. Improve logic thinking. Weclcome to discuss it together.
 
 [412]:https://leetcode.com/problems/fizz-buzz/description/
 [412.1]:https://github.com/lingyu77/LeetCode/blob/master/C/442_FindAllDuplicatesInAnArray.c
+
+[434]:https://leetcode.com/problems/number-of-segments-in-a-string/description/
+[434.1]:https://github.com/lingyu77/LeetCode/blob/master/C/434_NumberOfSegmentsInAString.c
 
 [442]:https://leetcode.com/problems/find-all-duplicates-in-an-array/description/
 [442.1]:https://github.com/lingyu77/LeetCode/blob/master/C/412_FizzBuzz.c
