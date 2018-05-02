@@ -2,6 +2,7 @@
 # LeetCode
 
 Practise coding skills. Improve logic thinking. Weclcome to discuss it together. 
+LeetCode : https://leetcode.com/
 
 ## Algorithms
 
