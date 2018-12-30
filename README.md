@@ -9,7 +9,7 @@ LeetCode : https://leetcode.com/
 ### Arrary
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
-| 1 | [Two Sum][1] | [C][1.1] <br> [Python][1.2] [Java][1.3]| Easy | [TO DO] C Hash table solution <br> [Python3 Data structure][1.4]|
+| 1 | [Two Sum][1] | [C][1.1] <br> [Python][1.2] <br> [Java][1.3]| Easy | [TO DO] C Hash table solution <br> [Python3 Data structure][1.4]|
 | 26 | [Remove Duplicates from Sorted Array][26] | [C][26.1]| Easy | in-space |
 | 27 | [Remove Element][27] | [C][27.1] | Easy | in-space | 
 | 66 | [Plus One][66] | [C][66.1] | Easy | Note : memcpy usage |
