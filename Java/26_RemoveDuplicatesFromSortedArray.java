@@ -1,3 +1,4 @@
+// 10ms
 class Solution {
     public int removeDuplicates(int[] nums) {
         int length = 0;
