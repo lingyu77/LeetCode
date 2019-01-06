@@ -10,7 +10,7 @@ LeetCode : https://leetcode.com/
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
 | 1 | [Two Sum][1] | [C][1.1] <br> [Python][1.2] <br> [Java][1.3]| Easy | [TO DO] C Hash table solution <br> [Python3 Data structure][1.4]|
-| 26 | [Remove Duplicates from Sorted Array][26] | [C][26.1]| Easy | in-space |
+| 26 | [Remove Duplicates from Sorted Array][26] | [C][26.1] <br> [Java][26.2]| Easy | in-space <br> [TO DO] Java8 stream|
 | 27 | [Remove Element][27] | [C][27.1] | Easy | in-space | 
 | 66 | [Plus One][66] | [C][66.1] | Easy | Note : memcpy usage |
 | 167 | [Two Sum II - Input array is sorted][167] | [C][167.1] | Easy | 
@@ -115,6 +115,7 @@ LeetCode : https://leetcode.com/
 
 [26]:https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
 [26.1]:https://github.com/lingyu77/LeetCode/blob/master/C/26_RemoveDuplicatesFromSortedArray.c
+[26.2]:https://github.com/lingyu77/LeetCode/blob/master/Java/26_RemoveDuplicatesFromSortedArray.java
 
 [27]:https://leetcode.com/problems/remove-element/description/
 [27.1]:https://github.com/lingyu77/LeetCode/blob/master/C/27_RemoveElement.c
