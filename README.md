@@ -20,7 +20,7 @@ LeetCode : https://leetcode.com/
 | 414 | [Third Maximum Number][414] | [C][414.1] | Easy | 
 | 442 | [Find All Duplicates in an Array][442] | [C][442.1] | Medium | Math |
 | 485 | [Max Consecutive Ones][485] | [C][485.1] | Easy | Math |
-| 561 | [Array Partition I.][561] | [C][561.1] <br> [Python][561.2] | Easy |
+| 561 | [Array Partition I.][561] | [C][561.1] <br> [Python][561.2] <br> [Java][561.3] | Easy |
 | 605 | [Can Place Flowers][605] | [C][605.1] | Easy |
 | 628 | [Maximum Product of Three Numbers][628] | [C][628.1] | Easy |
 | 747 | [Largest Number At Least Twice of Others][747] | [C][747.1] | Easy | Math |
@@ -225,6 +225,7 @@ LeetCode : https://leetcode.com/
 [561]:https://leetcode.com/problems/array-partition-i/
 [561.1]:https://github.com/lingyu77/LeetCode/blob/master/C/561_%20ArrayPartitionI.c
 [561.2]:https://github.com/lingyu77/LeetCode/blob/master/Python%203/561_%20ArrayPartitionI.py
+[561.3]:https://github.com/lingyu77/LeetCode/blob/master/Java/561_%20ArrayPartitionI.java
 
 [575]:https://leetcode.com/problems/distribute-candies/
 [575.1]:https://github.com/lingyu77/LeetCode/blob/master/C/575_DistributeCandies.c
