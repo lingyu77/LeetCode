@@ -29,7 +29,7 @@ LeetCode : https://leetcode.com/
 ### Bit Manipulation
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
-| 136 | [Single Number][136] | [C][136.1] <br> [Python][136.2] | Easy |
+| 136 | [Single Number][136] | [C][136.1] <br> [Python][136.2] <br> [Java][136.3]| Easy |
 | 231 | [Power of Two][231] | [C][231.1]| Easy |
 | 461 | [Hamming Distance][461] | [C][461.1] <br> [Python][461.2] | Easy | [Thinking][461.3] |
 | 476 | [NumberComplement][476] | [C][476.1] <br> [Python][476.2] | Easy |
@@ -139,6 +139,7 @@ LeetCode : https://leetcode.com/
 [136]:https://leetcode.com/problems/single-number/description/
 [136.1]:https://github.com/lingyu77/LeetCode/blob/master/C/136_SingleNumber.c
 [136.2]:https://github.com/lingyu77/LeetCode/blob/master/Python%203/136_SingleNumber.py
+[136.3]:https://github.com/lingyu77/LeetCode/blob/master/Java/136_SingleNumber.java
 
 [141]:https://leetcode.com/problems/linked-list-cycle/description/
 [141.1]:https://github.com/lingyu77/LeetCode/blob/master/C/141_LinkedListCycle.c
