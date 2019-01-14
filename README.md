@@ -12,7 +12,7 @@ LeetCode : https://leetcode.com/
 | 1 | [Two Sum][1] | [C][1.1] <br> [Python][1.2] <br> [Java][1.3]| Easy | [TO DO] C Hash table solution <br> [Python3 Data structure][1.4]|
 | 26 | [Remove Duplicates from Sorted Array][26] | [C][26.1] <br> [Java][26.2]| Easy | in-space <br> [TO DO] Java8 stream|
 | 27 | [Remove Element][27] | [C][27.1] <br> [Java][27.2] | Easy | in-space | 
-| 66 | [Plus One][66] | [C][66.1] | Easy | Note : memcpy usage |
+| 66 | [Plus One][66] | [C][66.1] <br> [Java][66.2] | Easy | Note : memcpy usage |
 | 167 | [Two Sum II - Input array is sorted][167] | [C][167.1] | Easy | 
 | 217 | [Contains Duplicate][217] | [C][217.1] | Easy | Math |
 | 268 | [Missing Number][268] | [C][268.1] | Easy | Math |
@@ -126,6 +126,7 @@ LeetCode : https://leetcode.com/
 
 [66]:https://leetcode.com/problems/plus-one/description/
 [66.1]:https://github.com/lingyu77/LeetCode/blob/master/C/66_PlusOne.c
+[66.2]:https://github.com/lingyu77/LeetCode/blob/master/Java/66_PlusOne.java
 
 [83]:https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
 [83.1]:https://github.com/lingyu77/LeetCode/blob/master/C/83_RemoveDuplicatesFromSortedList.c
