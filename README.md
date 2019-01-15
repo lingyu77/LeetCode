@@ -16,7 +16,7 @@ LeetCode : https://leetcode.com/
 | 167 | [Two Sum II - Input array is sorted][167] | [C][167.1] | Easy | 
 | 217 | [Contains Duplicate][217] | [C][217.1] | Easy | Math |
 | 268 | [Missing Number][268] | [C][268.1] | Easy | Math |
-| 283 | [Move Zeroes][283] | [C][283.1] | Easy | Similar with 27 |
+| 283 | [Move Zeroes][283] | [C][283.1] <br> [Java][283.2]| Easy | Similar with 27 |
 | 414 | [Third Maximum Number][414] | [C][414.1] | Easy | 
 | 442 | [Find All Duplicates in an Array][442] | [C][442.1] | Medium | Math |
 | 485 | [Max Consecutive Ones][485] | [C][485.1] | Easy | Math |
@@ -180,6 +180,7 @@ LeetCode : https://leetcode.com/
 
 [283]:https://leetcode.com/problems/move-zeroes/description/
 [283.1]:https://github.com/lingyu77/LeetCode/blob/master/C/283_MoveZeroes.c
+[283.2]:https://github.com/lingyu77/LeetCode/blob/master/Java/283_MoveZeroes.java
 
 [344]:https://leetcode.com/problems/reverse-string/description/
 [344.1]:https://github.com/lingyu77/LeetCode/blob/master/C/344_Reverse%20String.c
