@@ -15,7 +15,7 @@ LeetCode : https://leetcode.com/
 | 66 | [Plus One][66] | [C][66.1] <br> [Java][66.2] | Easy | Note : memcpy usage |
 | 167 | [Two Sum II - Input array is sorted][167] | [C][167.1] | Easy | 
 | 217 | [Contains Duplicate][217] | [C][217.1] | Easy | Math |
-| 268 | [Missing Number][268] | [C][268.1] | Easy | Math |
+| 268 | [Missing Number][268] | [C][268.1] [Java][268.2]| Easy | Math |
 | 283 | [Move Zeroes][283] | [C][283.1] <br> [Java][283.2]| Easy | Similar with 27 |
 | 414 | [Third Maximum Number][414] | [C][414.1] | Easy | 
 | 442 | [Find All Duplicates in an Array][442] | [C][442.1] | Medium | Math |
@@ -177,6 +177,7 @@ LeetCode : https://leetcode.com/
 
 [268]:https://leetcode.com/problems/missing-number/description/
 [268.1]:https://github.com/lingyu77/LeetCode/blob/master/C/268_MissingNumber.c
+[268.2]:https://github.com/lingyu77/LeetCode/blob/master/Java/268_MissingNumber.java
 
 [283]:https://leetcode.com/problems/move-zeroes/description/
 [283.1]:https://github.com/lingyu77/LeetCode/blob/master/C/283_MoveZeroes.c
