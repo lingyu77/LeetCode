@@ -14,7 +14,7 @@ LeetCode : https://leetcode.com/
 | 27 | [Remove Element][27] | [C][27.1] <br> [Java][27.2] | Easy | in-space | 
 | 66 | [Plus One][66] | [C][66.1] <br> [Java][66.2] | Easy | Note : memcpy usage |
 | 167 | [Two Sum II - Input array is sorted][167] | [C][167.1] | Easy | 
-| 217 | [Contains Duplicate][217] | [C][217.1] | Easy | Math |
+| 217 | [Contains Duplicate][217] | [C][217.1] [Java][217.2]| Easy | Math |
 | 268 | [Missing Number][268] | [C][268.1] [Java][268.2]| Easy | Math |
 | 283 | [Move Zeroes][283] | [C][283.1] <br> [Java][283.2]| Easy | Similar with 27 |
 | 414 | [Third Maximum Number][414] | [C][414.1] | Easy | 
@@ -159,6 +159,7 @@ LeetCode : https://leetcode.com/
 
 [217]:https://leetcode.com/problems/contains-duplicate/description/
 [217.1]:https://github.com/lingyu77/LeetCode/blob/master/C/217_ContainsDuplicate.c
+[217.2]:https://github.com/lingyu77/LeetCode/blob/master/Java/217_ContainsDuplicate.java
 
 [231]:https://leetcode.com/problems/power-of-two/description/
 [231.1]:https://github.com/lingyu77/LeetCode/blob/master/C/231_PowerOfTwo.c
