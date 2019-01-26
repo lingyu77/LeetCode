@@ -14,10 +14,10 @@ LeetCode : https://leetcode.com/
 | 27 | [Remove Element][27] | [C][27.1] <br> [Java][27.2] | Easy | in-space | 
 | 66 | [Plus One][66] | [C][66.1] <br> [Java][66.2] | Easy | Note : memcpy usage |
 | 167 | [Two Sum II - Input array is sorted][167] | [C][167.1] | Easy | 
-| 217 | [Contains Duplicate][217] | [C][217.1] [Java][217.2]| Easy | Math |
-| 268 | [Missing Number][268] | [C][268.1] [Java][268.2]| Easy | Math |
+| 217 | [Contains Duplicate][217] | [C][217.1] <br> [Java][217.2]| Easy | Math |
+| 268 | [Missing Number][268] | [C][268.1] <br>  [Java][268.2]| Easy | Math |
 | 283 | [Move Zeroes][283] | [C][283.1] <br> [Java][283.2]| Easy | Similar with 27 |
-| 414 | [Third Maximum Number][414] | [C][414.1] | Easy | 
+| 414 | [Third Maximum Number][414] | [C][414.1] <br> [Java][414.2]| Easy | 
 | 442 | [Find All Duplicates in an Array][442] | [C][442.1] | Medium | Math |
 | 485 | [Max Consecutive Ones][485] | [C][485.1] | Easy | Math |
 | 561 | [Array Partition I.][561] | [C][561.1] <br> [Python][561.2] <br> [Java][561.3] | Easy |
@@ -196,6 +196,7 @@ LeetCode : https://leetcode.com/
 
 [414]:https://leetcode.com/problems/third-maximum-number/description/
 [414.1]:https://github.com/lingyu77/LeetCode/blob/master/C/414_ThirdMaximumNumber.c
+[414.2]:https://github.com/lingyu77/LeetCode/blob/master/C/414_ThirdMaximumNumber.java
 
 [434]:https://leetcode.com/problems/number-of-segments-in-a-string/description/
 [434.1]:https://github.com/lingyu77/LeetCode/blob/master/C/434_NumberOfSegmentsInAString.c
