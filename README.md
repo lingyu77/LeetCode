@@ -25,6 +25,8 @@ LeetCode : https://leetcode.com/
 | 628 | [Maximum Product of Three Numbers][628] | [C][628.1] | Easy |
 | 747 | [Largest Number At Least Twice of Others][747] | [C][747.1] | Easy | Math |
 | 766 | [Toeplitz Matrix][766] | [C][766.1] | Easy | Math |
+| 905 | [Sort Array By Parity][905] | [Java][905.1] | Easy | |
+| 977 | [Squares of a Sorted Array][977] | [Java][977.1] | Easy | |
 
 ### Bit Manipulation
 | # | Title | Solutions | Difficulty | Note |
@@ -270,5 +272,11 @@ LeetCode : https://leetcode.com/
 
 [788]:https://leetcode.com/problems/rotated-digits/description/
 [788.1]:https://github.com/lingyu77/LeetCode/blob/master/C/788_RotatedDigits.c
+
+[905]:https://leetcode.com/problems/sort-array-by-parity/
+[905.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/905_SortArrayByParity.java
+
+[977]:https://leetcode.com/problems/squares-of-a-sorted-array/
+[977.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/977_SquaresofaSortedArray.java
 
 > Written with [StackEdit](https://stackedit.io/).
