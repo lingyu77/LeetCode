@@ -47,6 +47,7 @@ LeetCode : https://leetcode.com/
 | 557 | [Reverse Words in a String III][557] | [C][557.1] | Easy |
 | 657 | [Judge Route Circle][657] | [C][657.1] <br> [Python][657.2] | Easy | [Thinking][657.4]|
 | 788 | [Rotated Digits][788] | [C][788.1] | Easy | Math|
+| 804 | [Unique Morse Code Words][804] | [Java][804.1] | Easy | Set, StringBuilder(append, toCharArray, toString)|
 
 ### Tree
 | # | Title | Solutions | Difficulty | Note |
@@ -272,6 +273,9 @@ LeetCode : https://leetcode.com/
 
 [788]:https://leetcode.com/problems/rotated-digits/description/
 [788.1]:https://github.com/lingyu77/LeetCode/blob/master/C/788_RotatedDigits.c
+
+[804]:https://leetcode.com/problems/unique-morse-code-words/
+[804.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/804_UniqueMorseCodeWords.java
 
 [905]:https://leetcode.com/problems/sort-array-by-parity/
 [905.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/905_SortArrayByParity.java
