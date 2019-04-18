@@ -42,12 +42,13 @@ LeetCode : https://leetcode.com/
 | 58 | [Length of Last Word][58] | [C][58.1] | Easy |
 | 344 | [Reverse String][344] | [C][344.1] <br> [Python][344.2] | Easy |
 | 387 | [First Unique Character in a String][387] | [C][387.1] | Easy | It reduces performance if we write subfunction in 'for' statement.|
+| 415 | [Add Strings][415] | [Java][415.1] | Easy | StringBuilder|
 | 434 | [Number of Segments in a String][434] | [C][434.1] | Easy | strtok |
 | 520 | [Detect Capital][520] | [C][520.1] | Easy |
 | 557 | [Reverse Words in a String III][557] | [C][557.1] | Easy |
 | 657 | [Judge Route Circle][657] | [C][657.1] <br> [Python][657.2] | Easy | [Thinking][657.4]|
 | 788 | [Rotated Digits][788] | [C][788.1] | Easy | Math|
-| 804 | [Unique Morse Code Words][804] | [Java][804.1] | Easy | Set, StringBuilder(append, toCharArray, toString)|
+| 804 | [Unique Morse Code Words][804] | [Java][804.1] | Easy | Set, StringBuilder(append, toString), String(toCharArray)|
 
 ### Tree
 | # | Title | Solutions | Difficulty | Note |
@@ -200,6 +201,9 @@ LeetCode : https://leetcode.com/
 [414]:https://leetcode.com/problems/third-maximum-number/description/
 [414.1]:https://github.com/lingyu77/LeetCode/blob/master/C/414_ThirdMaximumNumber.c
 [414.2]:https://github.com/lingyu77/LeetCode/blob/master/C/414_ThirdMaximumNumber.java
+
+[415]:https://leetcode.com/problems/add-strings/
+[415.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/415_AddStrings.java
 
 [434]:https://leetcode.com/problems/number-of-segments-in-a-string/description/
 [434.1]:https://github.com/lingyu77/LeetCode/blob/master/C/434_NumberOfSegmentsInAString.c
