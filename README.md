@@ -40,6 +40,7 @@ LeetCode : https://leetcode.com/
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
 | 58 | [Length of Last Word][58] | [C][58.1] | Easy |
+| 125 | [Valid Palindrome][125] | [Java][125.1] | Easy |
 | 344 | [Reverse String][344] | [C][344.1] <br> [Python][344.2] | Easy |
 | 387 | [First Unique Character in a String][387] | [C][387.1] | Easy | It reduces performance if we write subfunction in 'for' statement.|
 | 415 | [Add Strings][415] | [Java][415.1] | Easy | StringBuilder|
@@ -141,6 +142,9 @@ LeetCode : https://leetcode.com/
 
 [104]:https://leetcode.com/problems/maximum-depth-of-binary-tree/description/
 [104.1]:https://github.com/lingyu77/LeetCode/blob/master/C/104_MaximumDepthOfBinaryTree.c
+
+[125]:https://leetcode.com/problems/valid-palindrome/
+[125.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/125_ValidPalindrome.java
 
 [136]:https://leetcode.com/problems/single-number/description/
 [136.1]:https://github.com/lingyu77/LeetCode/blob/master/C/136_SingleNumber.c
