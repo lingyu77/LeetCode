@@ -40,6 +40,7 @@ LeetCode : https://leetcode.com/
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
 | 58 | [Length of Last Word][58] | [C][58.1] | Easy |
+| 67 | [Add Binary][67] | [Java][67.1] | Easy |
 | 125 | [Valid Palindrome][125] | [Java][125.1] | Easy |
 | 344 | [Reverse String][344] | [C][344.1] <br> [Python][344.2] | Easy |
 | 387 | [First Unique Character in a String][387] | [C][387.1] | Easy | It reduces performance if we write subfunction in 'for' statement.|
@@ -134,6 +135,9 @@ LeetCode : https://leetcode.com/
 [66]:https://leetcode.com/problems/plus-one/description/
 [66.1]:https://github.com/lingyu77/LeetCode/blob/master/C/66_PlusOne.c
 [66.2]:https://github.com/lingyu77/LeetCode/blob/master/Java/66_PlusOne.java
+
+[67]:https://leetcode.com/problems/add-binary/
+[67.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/67_AddBinary.java
 
 [83]:https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
 [83.1]:https://github.com/lingyu77/LeetCode/blob/master/C/83_RemoveDuplicatesFromSortedList.c
