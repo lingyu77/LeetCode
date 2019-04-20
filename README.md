@@ -43,6 +43,7 @@ LeetCode : https://leetcode.com/
 | 67 | [Add Binary][67] | [Java][67.1] | Easy |
 | 125 | [Valid Palindrome][125] | [Java][125.1] | Easy |
 | 344 | [Reverse String][344] | [C][344.1] <br> [Python][344.2] | Easy |
+| 383 | [Ransom Note][383] | [Java][33.1] | Easy |
 | 387 | [First Unique Character in a String][387] | [C][387.1] | Easy | It reduces performance if we write subfunction in 'for' statement.|
 | 415 | [Add Strings][415] | [Java][415.1] | Easy | StringBuilder|
 | 434 | [Number of Segments in a String][434] | [C][434.1] | Easy | strtok |
@@ -201,6 +202,9 @@ LeetCode : https://leetcode.com/
 [344]:https://leetcode.com/problems/reverse-string/description/
 [344.1]:https://github.com/lingyu77/LeetCode/blob/master/C/344_Reverse%20String.c
 [344.2]:https://github.com/lingyu77/LeetCode/blob/master/Python%203/344_ReverseString.py
+
+[383]:https://leetcode.com/problems/ransom-note/
+[383.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/383_RansomNote.java
 
 [387]:https://leetcode.com/problems/first-unique-character-in-a-string/description/
 [387.1]:https://github.com/lingyu77/LeetCode/blob/master/C/387_FirstUniqueCharacterInAString.c
