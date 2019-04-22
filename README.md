@@ -49,6 +49,7 @@ LeetCode : https://leetcode.com/
 | 415 | [Add Strings][415] | [Java][415.1] | Easy | StringBuilder|
 | 434 | [Number of Segments in a String][434] | [C][434.1] | Easy | strtok |
 | 520 | [Detect Capital][520] | [C][520.1] | Easy |
+| 541 | [Reverse String II][541] | [Java][541.1] | Easy |
 | 557 | [Reverse Words in a String III][557] | [C][557.1] | Easy |
 | 657 | [Judge Route Circle][657] | [C][657.1] <br> [Python][657.2] | Easy | [Thinking][657.4]|
 | 788 | [Rotated Digits][788] | [C][788.1] | Easy | Math|
@@ -249,6 +250,9 @@ LeetCode : https://leetcode.com/
 
 [520]:https://leetcode.com/problems/detect-capital/description/
 [520.1]:https://github.com/lingyu77/LeetCode/blob/master/C/520_DetectCapital.c
+
+[541]:https://leetcode.com/problems/reverse-string-ii/
+[541.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/541_ReverseStringII.java
 
 [557]:https://leetcode.com/problems/reverse-words-in-a-string-iii/description/
 [557.1]:https://github.com/lingyu77/LeetCode/blob/master/C/557_ReverseWordsInAStringIII.c
