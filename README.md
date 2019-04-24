@@ -71,6 +71,7 @@ LeetCode : https://leetcode.com/
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
 | 7  | [Reverse Integer][7] | [C][7.1] | Easy |
+| 9  | [Palindrome Number][9] | [Java][9.1] | Easy |
 | 13 | [Roman to Integer][13] | [C][13.1] <br> [Python][13.2] | Easy |
 | 258 | [Add Digits][258] | [C][258.1] | Easy |
 | 728 | [Self Dividing Numbers][728] | [C][728.1] <br> [Python][728.2] | Easy |
@@ -116,6 +117,9 @@ LeetCode : https://leetcode.com/
 
 [7]:https://leetcode.com/problems/reverse-integer/description/
 [7.1]:https://github.com/lingyu77/LeetCode/blob/master/C/7_ReverseInteger.c
+
+[9]:https://leetcode.com/problems/palindrome-number/
+[9.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/9_PalindromeNumber.java
 
 [13]:https://leetcode.com/problems/roman-to-integer/description/
 [13.1]:https://github.com/lingyu77/LeetCode/blob/master/C/13_RomanToInteger.c
