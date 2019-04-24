@@ -52,6 +52,7 @@ LeetCode : https://leetcode.com/
 | 541 | [Reverse String II][541] | [Java][541.1] | Easy |
 | 557 | [Reverse Words in a String III][557] | [C][557.1] | Easy |
 | 657 | [Judge Route Circle][657] | [C][657.1] <br> [Python][657.2] | Easy | [Thinking][657.4]|
+| 686 | [Repeated String Match][686] | [Java][686.1] | Easy | TODO: Need to improve algorithm|
 | 788 | [Rotated Digits][788] | [C][788.1] | Easy | Math|
 | 804 | [Unique Morse Code Words][804] | [Java][804.1] | Easy | Set, StringBuilder(append, toString), String(toCharArray)|
 | 819 | [Most Common Word][819] | [Java][819.1] | Easy | TODO: Improve performance|
@@ -285,6 +286,9 @@ LeetCode : https://leetcode.com/
 
 [682]:https://leetcode.com/problems/baseball-game/description/
 [682.1]:https://github.com/lingyu77/LeetCode/blob/master/C/682_BaseballGame.c
+
+[686]:https://leetcode.com/problems/repeated-string-match/
+[686.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/686_RepeatedStringMatch.java
 
 [771]:https://leetcode.com/problems/jewels-and-stones/
 [771.1]:https://github.com/lingyu77/LeetCode/blob/master/C/771_JewelsandStones.c
