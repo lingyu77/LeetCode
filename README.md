@@ -90,6 +90,7 @@ LeetCode : https://leetcode.com/
 | ------ | ------ | ------ | ------ |------ |
 | 20 | [Valid Parentheses][20] | [C][20.1] | Easy |
 | 682 | [Baseball Game][682] | [C][682.1] | Easy |
+| 1021| [Remove Outermost Parentheses][1021] | [Java][1021.1] | Easy | Java Operator Precedence|
 
 ### Linked List
 | # | Title | Solutions | Difficulty | Note |
@@ -330,5 +331,8 @@ LeetCode : https://leetcode.com/
 
 [977]:https://leetcode.com/problems/squares-of-a-sorted-array/
 [977.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/977_SquaresofaSortedArray.java
+
+[1021]:https://leetcode.com/problems/remove-outermost-parentheses/
+[1021.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/1021_RemoveOutermostParentheses.java
 
 > Written with [StackEdit](https://stackedit.io/).
