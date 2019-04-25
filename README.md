@@ -75,7 +75,7 @@ LeetCode : https://leetcode.com/
 | 13 | [Roman to Integer][13] | [C][13.1] <br> [Python][13.2] | Easy |
 | 258 | [Add Digits][258] | [C][258.1] | Easy |
 | 728 | [Self Dividing Numbers][728] | [C][728.1] <br> [Python][728.2] | Easy |
-
+| 942 | [DI String Match][942] | [Java][942.1] | Easy |
 
 ### Hash Table
 | # | Title | Solutions | Difficulty | Note |
@@ -328,6 +328,9 @@ LeetCode : https://leetcode.com/
 
 [929]:https://leetcode.com/problems/unique-email-addresses/
 [929.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/929_UniqueEmailAddresses.java
+
+[942]:https://leetcode.com/problems/di-string-match/
+[942.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/942_DIStringMatch.java
 
 [977]:https://leetcode.com/problems/squares-of-a-sorted-array/
 [977.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/977_SquaresofaSortedArray.java
