@@ -9,7 +9,7 @@ LeetCode : https://leetcode.com/
 ### Arrary
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
-| 1 | [Two Sum][1] | [C][1.1] <br> [Python][1.2] <br> [Java][1.3]| Easy | [TO DO] C Hash table solution <br> [Python3 Data structure][1.4]|
+| 1 | [Two Sum][1] | [C][1.1] [Python][1.2] [Java][1.3]| Easy | [TO DO] C Hash table solution <br> [Python3 Data structure][1.4]|
 | 26 | [Remove Duplicates from Sorted Array][26] | [C][26.1] <br> [Java][26.2]| Easy | in-space <br> [TO DO] Java8 stream|
 | 27 | [Remove Element][27] | [C][27.1] <br> [Java][27.2] | Easy | in-space | 
 | 66 | [Plus One][66] | [C][66.1] <br> [Java][66.2] | Easy | Note : memcpy usage |
@@ -84,6 +84,7 @@ LeetCode : https://leetcode.com/
 | 500 | [Keyboard Row][500] | [C][500.1] | Easy |
 | 575 | [Distribute Candies][575] | [C][575.1] | Easy |
 | 771 | [Jewels and Stones][771] | [C][771.1] | Easy |
+| 961 | [N-Repeated Element in Size 2N Array][961] | [Java][961.1] | Easy |
 
 ### Stack
 | # | Title | Solutions | Difficulty | Note |
@@ -103,6 +104,11 @@ LeetCode : https://leetcode.com/
 | 206 | [Reverse Linked List][206] | [C][206.1] | Easy |
 | 234 | [Palindrome Linked List][234] | [C][234.1] | Easy |
 | 237 | [Delete Node in a Linked List][237] | [C][237.1] | Easy |
+
+### Binary Search
+| # | Title | Solutions | Difficulty | Note |
+| ------ | ------ | ------ | ------ |------ |
+| 852 | [Peak Index in a Mountain Array][852] | [Java][852.1] | Easy |
 
 ### Others
 | # | Title | Solutions | Difficulty | Note |
@@ -317,6 +323,9 @@ LeetCode : https://leetcode.com/
 [819]:https://leetcode.com/problems/most-common-word/
 [819.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/819_MostCommonWord.java
 
+[852]:https://leetcode.com/problems/peak-index-in-a-mountain-array/
+[852.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/852_PeakIndexinaMountainArray.java
+
 [859]:https://leetcode.com/problems/buddy-strings/
 [859.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/859_BuddyStrings.java
 
@@ -331,6 +340,9 @@ LeetCode : https://leetcode.com/
 
 [942]:https://leetcode.com/problems/di-string-match/
 [942.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/942_DIStringMatch.java
+
+[961]:https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
+[961.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/961_N-RepeatedElementinSize2NArray.java
 
 [977]:https://leetcode.com/problems/squares-of-a-sorted-array/
 [977.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/977_SquaresofaSortedArray.java
