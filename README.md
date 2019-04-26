@@ -9,18 +9,18 @@ LeetCode : https://leetcode.com/
 ### Arrary
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
-| 1 | [Two Sum][1] | [C][1.1] [Python][1.2] [Java][1.3]| Easy | [TO DO] C Hash table solution <br> [Python3 Data structure][1.4]|
-| 26 | [Remove Duplicates from Sorted Array][26] | [C][26.1] <br> [Java][26.2]| Easy | in-space <br> [TO DO] Java8 stream|
-| 27 | [Remove Element][27] | [C][27.1] <br> [Java][27.2] | Easy | in-space | 
-| 66 | [Plus One][66] | [C][66.1] <br> [Java][66.2] | Easy | Note : memcpy usage |
+| 1 | [Two Sum][1] | [C][1.1] [Python][1.2] [Java][1.3]| Easy | [TO DO] C Hash table solution [Python3 Data structure][1.4]|
+| 26 | [Remove Duplicates from Sorted Array][26] | [C][26.1] [Java][26.2]| Easy | in-space [TO DO] Java8 stream|
+| 27 | [Remove Element][27] | [C][27.1] [Java][27.2] | Easy | in-space | 
+| 66 | [Plus One][66] | [C][66.1] [Java][66.2] | Easy | Note : memcpy usage |
 | 167 | [Two Sum II - Input array is sorted][167] | [C][167.1] | Easy | 
-| 217 | [Contains Duplicate][217] | [C][217.1] <br> [Java][217.2]| Easy | Math |
-| 268 | [Missing Number][268] | [C][268.1] <br>  [Java][268.2]| Easy | Math |
-| 283 | [Move Zeroes][283] | [C][283.1] <br> [Java][283.2]| Easy | Similar with 27 |
-| 414 | [Third Maximum Number][414] | [C][414.1] <br> [Java][414.2]| Easy | 
+| 217 | [Contains Duplicate][217] | [C][217.1] [Java][217.2]| Easy | Math |
+| 268 | [Missing Number][268] | [C][268.1]  [Java][268.2]| Easy | Math |
+| 283 | [Move Zeroes][283] | [C][283.1] [Java][283.2]| Easy | Similar with 27 |
+| 414 | [Third Maximum Number][414] | [C][414.1] [Java][414.2]| Easy | 
 | 442 | [Find All Duplicates in an Array][442] | [C][442.1] | Medium | Math |
 | 485 | [Max Consecutive Ones][485] | [C][485.1] | Easy | Math |
-| 561 | [Array Partition I.][561] | [C][561.1] <br> [Python][561.2] <br> [Java][561.3] | Easy |
+| 561 | [Array Partition I.][561] | [C][561.1] [Python][561.2] [Java][561.3] | Easy |
 | 605 | [Can Place Flowers][605] | [C][605.1] | Easy |
 | 628 | [Maximum Product of Three Numbers][628] | [C][628.1] | Easy |
 | 747 | [Largest Number At Least Twice of Others][747] | [C][747.1] | Easy | Math |
@@ -31,10 +31,10 @@ LeetCode : https://leetcode.com/
 ### Bit Manipulation
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
-| 136 | [Single Number][136] | [C][136.1] <br> [Python][136.2] <br> [Java][136.3]| Easy |
+| 136 | [Single Number][136] | [C][136.1] [Python][136.2] [Java][136.3]| Easy |
 | 231 | [Power of Two][231] | [C][231.1]| Easy |
-| 461 | [Hamming Distance][461] | [C][461.1] <br> [Python][461.2] | Easy | [Thinking][461.3] |
-| 476 | [NumberComplement][476] | [C][476.1] <br> [Python][476.2] | Easy |
+| 461 | [Hamming Distance][461] | [C][461.1] [Python][461.2] | Easy | [Thinking][461.3] |
+| 476 | [NumberComplement][476] | [C][476.1] [Python][476.2] | Easy |
 
 ### String
 | # | Title | Solutions | Difficulty | Note |
@@ -42,7 +42,7 @@ LeetCode : https://leetcode.com/
 | 58 | [Length of Last Word][58] | [C][58.1] | Easy |
 | 67 | [Add Binary][67] | [Java][67.1] | Easy |
 | 125 | [Valid Palindrome][125] | [Java][125.1] | Easy |
-| 344 | [Reverse String][344] | [C][344.1] <br> [Python][344.2] | Easy |
+| 344 | [Reverse String][344] | [C][344.1] [Python][344.2] | Easy |
 | 345 | [Reverse Vowels of a String][345] | [Java][345.1]| Easy |
 | 383 | [Ransom Note][383] | [Java][33.1] | Easy |
 | 387 | [First Unique Character in a String][387] | [C][387.1] | Easy | It reduces performance if we write subfunction in 'for' statement.|
@@ -51,7 +51,7 @@ LeetCode : https://leetcode.com/
 | 520 | [Detect Capital][520] | [C][520.1] | Easy |
 | 541 | [Reverse String II][541] | [Java][541.1] | Easy |
 | 557 | [Reverse Words in a String III][557] | [C][557.1] | Easy |
-| 657 | [Judge Route Circle][657] | [C][657.1] <br> [Python][657.2] | Easy | [Thinking][657.4]|
+| 657 | [Judge Route Circle][657] | [C][657.1] [Python][657.2] | Easy | [Thinking][657.4]|
 | 686 | [Repeated String Match][686] | [Java][686.1] | Easy | TODO: Need to improve algorithm|
 | 788 | [Rotated Digits][788] | [C][788.1] | Easy | Math|
 | 804 | [Unique Morse Code Words][804] | [Java][804.1] | Easy | Set, StringBuilder(append, toString), String(toCharArray)|
@@ -65,16 +65,16 @@ LeetCode : https://leetcode.com/
 | ------ | ------ | ------ | ------ |------ |
 | 100  | [Same Tree][100] | [C][100.1] | Easy | Recursion.|
 | 104  | [Maximum Depth of Binary Tree][104] | [C][104.1] | Easy | Recursion. Depth-first Search |
-| 617 | [Merge Two Binary Trees][617] | [C][617.1] <br> [Python][617.2] | Easy | Recursion. [Thinking][617.4]|
+| 617 | [Merge Two Binary Trees][617] | [C][617.1] [Python][617.2] | Easy | Recursion. [Thinking][617.4]|
 
 ### Math
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
 | 7  | [Reverse Integer][7] | [C][7.1] | Easy |
 | 9  | [Palindrome Number][9] | [Java][9.1] | Easy |
-| 13 | [Roman to Integer][13] | [C][13.1] <br> [Python][13.2] | Easy |
+| 13 | [Roman to Integer][13] | [C][13.1] [Python][13.2] | Easy |
 | 258 | [Add Digits][258] | [C][258.1] | Easy |
-| 728 | [Self Dividing Numbers][728] | [C][728.1] <br> [Python][728.2] | Easy |
+| 728 | [Self Dividing Numbers][728] | [C][728.1] [Python][728.2] | Easy |
 | 942 | [DI String Match][942] | [Java][942.1] | Easy |
 
 ### Hash Table
@@ -108,6 +108,7 @@ LeetCode : https://leetcode.com/
 ### Binary Search
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
+| 162 | [Find Peak Element][162] | [Java][162.1] | Easy |
 | 852 | [Peak Index in a Mountain Array][852] | [Java][852.1] | Easy |
 
 ### Others
@@ -178,6 +179,9 @@ LeetCode : https://leetcode.com/
 
 [160]:https://leetcode.com/problems/intersection-of-two-linked-lists/description/
 [160.1]:https://github.com/lingyu77/LeetCode/blob/master/C/160_IntersectionOfTwoLinkedLists.c
+
+[162]:https://leetcode.com/problems/find-peak-element/
+[162.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/162_FindPeakElement.java
 
 [167]:https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
 [167.1]:https://github.com/lingyu77/LeetCode/blob/master/C/167_TwoSumIIInputArrayIsSorted.c
