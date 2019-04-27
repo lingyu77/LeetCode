@@ -82,6 +82,7 @@ LeetCode : https://leetcode.com/
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
 | 242 | [Valid Anagram][242] | [C][242.1] | Easy |
+| 389 | [Find the Difference][389] | [Java][389.1] | Easy |
 | 500 | [Keyboard Row][500] | [C][500.1] | Easy |
 | 575 | [Distribute Candies][575] | [C][575.1] | Easy |
 | 771 | [Jewels and Stones][771] | [C][771.1] | Easy |
@@ -232,6 +233,9 @@ LeetCode : https://leetcode.com/
 
 [387]:https://leetcode.com/problems/first-unique-character-in-a-string/description/
 [387.1]:https://github.com/lingyu77/LeetCode/blob/master/C/387_FirstUniqueCharacterInAString.c
+
+[389]:https://leetcode.com/problems/find-the-difference/
+[389.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/389_FindtheDifference.java
 
 [412]:https://leetcode.com/problems/fizz-buzz/description/
 [412.1]:https://github.com/lingyu77/LeetCode/blob/master/C/442_FindAllDuplicatesInAnArray.c
