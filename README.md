@@ -25,8 +25,9 @@ LeetCode : https://leetcode.com/
 | 628 | [Maximum Product of Three Numbers][628] | [C][628.1] | Easy |
 | 747 | [Largest Number At Least Twice of Others][747] | [C][747.1] | Easy | Math |
 | 766 | [Toeplitz Matrix][766] | [C][766.1] | Easy | Math |
-| 905 | [Sort Array By Parity][905] | [Java][905.1] | Easy | |
-| 977 | [Squares of a Sorted Array][977] | [Java][977.1] | Easy | |
+| 905 | [Sort Array By Parity][905] | [Java][905.1] | Easy | 
+| 977 | [Squares of a Sorted Array][977] | [Java][977.1] | Easy | 
+| 1002 | [Find Common Characters][1002] | [Java][1002.1] | Easy | 
 
 ### Bit Manipulation
 | # | Title | Solutions | Difficulty | Note |
@@ -350,6 +351,9 @@ LeetCode : https://leetcode.com/
 
 [977]:https://leetcode.com/problems/squares-of-a-sorted-array/
 [977.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/977_SquaresofaSortedArray.java
+
+[1002]:https://leetcode.com/problems/find-common-characters/
+[1002.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/1002_FindCommonCharacters.java
 
 [1021]:https://leetcode.com/problems/remove-outermost-parentheses/
 [1021.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/1021_RemoveOutermostParentheses.java
