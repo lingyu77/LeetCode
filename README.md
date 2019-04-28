@@ -25,7 +25,8 @@ LeetCode : https://leetcode.com/
 | 628 | [Maximum Product of Three Numbers][628] | [C][628.1] | Easy |
 | 747 | [Largest Number At Least Twice of Others][747] | [C][747.1] | Easy | Math |
 | 766 | [Toeplitz Matrix][766] | [C][766.1] | Easy | Math |
-| 905 | [Sort Array By Parity][905] | [Java][905.1] | Easy | 
+| 905 | [Sort Array By Parity][905] | [Java][905.1] | Easy |
+| 922 | [Sort Array By Parity II][922] | [Java][922.1] | Easy | Check odd or even by & |
 | 977 | [Squares of a Sorted Array][977] | [Java][977.1] | Easy | 
 | 1002 | [Find Common Characters][1002] | [Java][1002.1] | Easy | 
 
@@ -45,7 +46,7 @@ LeetCode : https://leetcode.com/
 | 125 | [Valid Palindrome][125] | [Java][125.1] | Easy |
 | 344 | [Reverse String][344] | [C][344.1] [Python][344.2] | Easy |
 | 345 | [Reverse Vowels of a String][345] | [Java][345.1]| Easy |
-| 383 | [Ransom Note][383] | [Java][33.1] | Easy |
+| 383 | [Ransom Note][383] | [Java][383.1] | Easy |
 | 387 | [First Unique Character in a String][387] | [C][387.1] | Easy | It reduces performance if we write subfunction in 'for' statement.|
 | 415 | [Add Strings][415] | [Java][415.1] | Easy | StringBuilder|
 | 434 | [Number of Segments in a String][434] | [C][434.1] | Easy | strtok |
@@ -343,6 +344,9 @@ LeetCode : https://leetcode.com/
 
 [917]:https://leetcode.com/problems/reverse-only-letters/
 [917.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/917_ReverseOnlyLetters.java
+
+[922]:https://leetcode.com/problems/sort-array-by-parity-ii/
+[922.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/922_SortArrayByParityII.java
 
 [929]:https://leetcode.com/problems/unique-email-addresses/
 [929.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/929_UniqueEmailAddresses.java
