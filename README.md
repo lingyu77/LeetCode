@@ -60,6 +60,7 @@ LeetCode : https://leetcode.com/
 | 804 | [Unique Morse Code Words][804] | [Java][804.1] | Easy | Set, StringBuilder(append, toString), String(toCharArray)|
 | 819 | [Most Common Word][819] | [Java][819.1] | Easy | TODO: Improve performance|
 | 859 | [Buddy Strings][859] | [Java][859.1] | Easy | Algorithm|
+| 890 | [Find and Replace Pattern][890] | [Java][890.1] | Easy |
 | 917 | [Reverse Only Letters][917] | [Java][917.1] | Easy |
 | 929 | [Unique Email Addresses][929] | [Java][929.1] | Easy |
 
@@ -342,6 +343,9 @@ LeetCode : https://leetcode.com/
 
 [859]:https://leetcode.com/problems/buddy-strings/
 [859.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/859_BuddyStrings.java
+
+[890]:https://leetcode.com/problems/find-and-replace-pattern/
+[890.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/890_FindandReplacePattern.java
 
 [905]:https://leetcode.com/problems/sort-array-by-parity/
 [905.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/905_SortArrayByParity.java
