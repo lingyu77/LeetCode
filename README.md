@@ -41,6 +41,7 @@ LeetCode : https://leetcode.com/
 ### String
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
+| 14 | [Longest Common Prefix][14] | [Java][14.1] | Easy |
 | 58 | [Length of Last Word][58] | [C][58.1] | Easy |
 | 67 | [Add Binary][67] | [Java][67.1] | Easy |
 | 125 | [Valid Palindrome][125] | [Java][125.1] | Easy |
@@ -137,6 +138,9 @@ LeetCode : https://leetcode.com/
 [13]:https://leetcode.com/problems/roman-to-integer/description/
 [13.1]:https://github.com/lingyu77/LeetCode/blob/master/C/13_RomanToInteger.c
 [13.2]:https://github.com/lingyu77/LeetCode/blob/master/Python%203/13_RomanToInteger.py
+
+[14]:https://leetcode.com/problems/longest-common-prefix/
+[14.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/14_LongestCommonPrefix.java
 
 [20]:https://leetcode.com/problems/valid-parentheses/description/
 [20.1]:https://github.com/lingyu77/LeetCode/blob/master/C/20_ValidParentheses.c
