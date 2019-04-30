@@ -64,6 +64,7 @@ LeetCode : https://leetcode.com/
 | 890 | [Find and Replace Pattern][890] | [Java][890.1] | Easy |
 | 917 | [Reverse Only Letters][917] | [Java][917.1] | Easy |
 | 929 | [Unique Email Addresses][929] | [Java][929.1] | Easy |
+| 1016 | [Binary String With Substrings Representing 1 To N][1016] | [Java][1016.1] | Easy |
 
 ### Tree
 | # | Title | Solutions | Difficulty | Note |
@@ -374,6 +375,9 @@ LeetCode : https://leetcode.com/
 
 [1002]:https://leetcode.com/problems/find-common-characters/
 [1002.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/1002_FindCommonCharacters.java
+
+[1016]:https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/
+[1016.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/1016_BinaryStringWithSubstringsRepresenting1ToN.java
 
 [1021]:https://leetcode.com/problems/remove-outermost-parentheses/
 [1021.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/1021_RemoveOutermostParentheses.java
