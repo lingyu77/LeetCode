@@ -25,6 +25,7 @@ LeetCode : https://leetcode.com/
 | 628 | [Maximum Product of Three Numbers][628] | [C][628.1] | Easy |
 | 747 | [Largest Number At Least Twice of Others][747] | [C][747.1] | Easy | Math |
 | 766 | [Toeplitz Matrix][766] | [C][766.1] | Easy | Math |
+| 832 | [Flipping an Image][832] | [Java][832.1] | Easy |
 | 905 | [Sort Array By Parity][905] | [Java][905.1] | Easy |
 | 922 | [Sort Array By Parity II][922] | [Java][922.1] | Easy | Check odd or even by & |
 | 977 | [Squares of a Sorted Array][977] | [Java][977.1] | Easy | 
@@ -347,6 +348,9 @@ LeetCode : https://leetcode.com/
 
 [819]:https://leetcode.com/problems/most-common-word/
 [819.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/819_MostCommonWord.java
+
+[832]:https://leetcode.com/problems/flipping-an-image/
+[832.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/832_FlippinganImage.java
 
 [852]:https://leetcode.com/problems/peak-index-in-a-mountain-array/
 [852.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/852_PeakIndexinaMountainArray.java
