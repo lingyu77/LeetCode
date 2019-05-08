@@ -70,9 +70,10 @@ LeetCode : https://leetcode.com/
 ### Tree
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
-| 100  | [Same Tree][100] | [C][100.1] | Easy | Recursion.|
-| 104  | [Maximum Depth of Binary Tree][104] | [C][104.1] | Easy | Recursion. Depth-first Search |
+| 100 | [Same Tree][100] | [C][100.1] | Easy | Recursion.|
+| 104 | [Maximum Depth of Binary Tree][104] | [C][104.1] | Easy | Recursion. Depth-first Search |
 | 617 | [Merge Two Binary Trees][617] | [C][617.1] [Python][617.2] | Easy | Recursion. [Thinking][617.4]|
+| 938 | [Range Sum of BST][938] | [Java][938.1] | Easy | DFS . Recursion.|
 
 ### Math
 | # | Title | Solutions | Difficulty | Note |
@@ -367,6 +368,9 @@ LeetCode : https://leetcode.com/
 
 [929]:https://leetcode.com/problems/unique-email-addresses/
 [929.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/929_UniqueEmailAddresses.java
+
+[938]:https://leetcode.com/problems/range-sum-of-bst/
+[938.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/938_RangeSumofBST.java
 
 [942]:https://leetcode.com/problems/di-string-match/
 [942.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/942_DIStringMatch.java
