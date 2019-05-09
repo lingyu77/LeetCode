@@ -103,6 +103,11 @@ LeetCode : https://leetcode.com/
 | 682 | [Baseball Game][682] | [C][682.1] | Easy |
 | 1021| [Remove Outermost Parentheses][1021] | [Java][1021.1] | Easy | Java Operator Precedence|
 
+### Queue
+| # | Title | Solutions | Difficulty | Note |
+| ------ | ------ | ------ | ------ |------ |
+| 933 | [Number of Recent Calls][933] | [Java][933.1] | Easy | Confused about the question |
+
 ### Linked List
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
@@ -372,6 +377,9 @@ LeetCode : https://leetcode.com/
 
 [929]:https://leetcode.com/problems/unique-email-addresses/
 [929.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/929_UniqueEmailAddresses.java
+
+[933]:https://leetcode.com/problems/number-of-recent-calls/
+[933.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/933_NumberofRecentCalls.java
 
 [938]:https://leetcode.com/problems/range-sum-of-bst/
 [938.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/938_RangeSumofBST.java
