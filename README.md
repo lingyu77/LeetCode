@@ -126,6 +126,11 @@ LeetCode : https://leetcode.com/
 | 162 | [Find Peak Element][162] | [Java][162.1] | Easy |
 | 852 | [Peak Index in a Mountain Array][852] | [Java][852.1] | Easy |
 
+### Greedy
+| # | Title | Solutions | Difficulty | Note |
+| ------ | ------ | ------ | ------ |------ |
+| 944 | [Delete Columns to Make Sorted][944] | [Java][944.1] | Easy | Difficult to understand the question but easy to solve it |
+
 ### Others
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
@@ -386,6 +391,9 @@ LeetCode : https://leetcode.com/
 
 [942]:https://leetcode.com/problems/di-string-match/
 [942.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/942_DIStringMatch.java
+
+[944]:https://leetcode.com/problems/delete-columns-to-make-sorted/
+[944.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/944_DeleteColumnstoMakeSorted.java
 
 [961]:https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
 [961.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/961_N-RepeatedElementinSize2NArray.java
