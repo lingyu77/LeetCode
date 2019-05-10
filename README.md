@@ -20,6 +20,7 @@ LeetCode : https://leetcode.com/
 | 414 | [Third Maximum Number][414] | [C][414.1] [Java][414.2]| Easy | 
 | 442 | [Find All Duplicates in an Array][442] | [C][442.1] | Medium | Math |
 | 485 | [Max Consecutive Ones][485] | [C][485.1] | Easy | Math |
+| 509 | [Fibonacci Number][509] | [Java][509.1] | Easy | TODO: Improve Time complexity |
 | 561 | [Array Partition I.][561] | [C][561.1] [Python][561.2] [Java][561.3] | Easy |
 | 605 | [Can Place Flowers][605] | [C][605.1] | Easy |
 | 628 | [Maximum Product of Three Numbers][628] | [C][628.1] | Easy |
@@ -291,6 +292,9 @@ LeetCode : https://leetcode.com/
 
 [504]:https://leetcode.com/problems/base-7/description/
 [504.1]:https://github.com/lingyu77/LeetCode/blob/master/C/504_Base7.c
+
+[509]:https://leetcode.com/problems/fibonacci-number/
+[509.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/509_FibonacciNumber.java
 
 [520]:https://leetcode.com/problems/detect-capital/description/
 [520.1]:https://github.com/lingyu77/LeetCode/blob/master/C/520_DetectCapital.c
