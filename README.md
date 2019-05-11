@@ -11,7 +11,8 @@ LeetCode : https://leetcode.com/
 | ------ | ------ | ------ | ------ |------ |
 | 1 | [Two Sum][1] | [C][1.1] [Python][1.2] [Java][1.3]| Easy | [TO DO] C Hash table solution [Python3 Data structure][1.4]|
 | 26 | [Remove Duplicates from Sorted Array][26] | [C][26.1] [Java][26.2]| Easy | in-space [TO DO] Java8 stream|
-| 27 | [Remove Element][27] | [C][27.1] [Java][27.2] | Easy | in-space | 
+| 27 | [Remove Element][27] | [C][27.1] [Java][27.2] | Easy | in-space |
+| 53 | [Maximum Subarray][53] | [Java][53.1] | Easy | Dynamic Programming | 
 | 66 | [Plus One][66] | [C][66.1] [Java][66.2] | Easy | Note : memcpy usage |
 | 167 | [Two Sum II - Input array is sorted][167] | [C][167.1] | Easy | 
 | 217 | [Contains Duplicate][217] | [C][217.1] [Java][217.2]| Easy | Math |
@@ -170,6 +171,9 @@ LeetCode : https://leetcode.com/
 [27]:https://leetcode.com/problems/remove-element/description/
 [27.1]:https://github.com/lingyu77/LeetCode/blob/master/C/27_RemoveElement.c
 [27.2]:https://github.com/lingyu77/LeetCode/blob/master/Java/27_RemoveElement.java
+
+[53]:https://leetcode.com/problems/maximum-subarray/
+[53.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/53_MaximumSubarray.c
 
 [58]:https://leetcode.com/problems/length-of-last-word/description/
 [58.1]:https://github.com/lingyu77/LeetCode/blob/master/C/58_LengthOfLastWord.c
