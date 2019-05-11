@@ -46,6 +46,7 @@ LeetCode : https://leetcode.com/
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
 | 14 | [Longest Common Prefix][14] | [Java][14.1] | Easy |
+| 28 | [Implement strStr()][28] | [Java][28.1] | Easy | indexOf |
 | 58 | [Length of Last Word][58] | [C][58.1] | Easy |
 | 67 | [Add Binary][67] | [Java][67.1] | Easy |
 | 125 | [Valid Palindrome][125] | [Java][125.1] | Easy |
@@ -172,6 +173,9 @@ LeetCode : https://leetcode.com/
 [27]:https://leetcode.com/problems/remove-element/description/
 [27.1]:https://github.com/lingyu77/LeetCode/blob/master/C/27_RemoveElement.c
 [27.2]:https://github.com/lingyu77/LeetCode/blob/master/Java/27_RemoveElement.java
+
+[28]:https://leetcode.com/problems/implement-strstr/
+[28.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/28_Implement_strStr.java
 
 [35]:https://leetcode.com/problems/search-insert-position/
 [35.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/35_SearchInsertPosition.java
