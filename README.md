@@ -21,6 +21,7 @@ LeetCode : https://leetcode.com/
 | 283 | [Move Zeroes][283] | [C][283.1] [Java][283.2]| Easy | Similar with 27 |
 | 414 | [Third Maximum Number][414] | [C][414.1] [Java][414.2]| Easy | 
 | 442 | [Find All Duplicates in an Array][442] | [C][442.1] | Medium | Math |
+| 448 | [Find All Numbers Disappeared in an Array][448] | [Java][448.1] | Easy |
 | 485 | [Max Consecutive Ones][485] | [C][485.1] | Easy | Math |
 | 509 | [Fibonacci Number][509] | [Java][509.1] | Easy | TODO: Improve Time complexity |
 | 561 | [Array Partition I.][561] | [C][561.1] [Python][561.2] [Java][561.3] | Easy |
@@ -67,7 +68,7 @@ LeetCode : https://leetcode.com/
 | 804 | [Unique Morse Code Words][804] | [Java][804.1] | Easy | Set, StringBuilder(append, toString), String(toCharArray)|
 | 819 | [Most Common Word][819] | [Java][819.1] | Easy | TODO: Improve performance|
 | 859 | [Buddy Strings][859] | [Java][859.1] | Easy | Algorithm|
-| 890 | [Find and Replace Pattern][890] | [Java][890.1] | Easy |
+| 890 | [Find and Replace Pattern][890] | [Java][890.1] | Medium |
 | 917 | [Reverse Only Letters][917] | [Java][917.1] | Easy |
 | 929 | [Unique Email Addresses][929] | [Java][929.1] | Easy |
 | 1016 | [Binary String With Substrings Representing 1 To N][1016] | [Java][1016.1] | Easy |
@@ -286,6 +287,9 @@ LeetCode : https://leetcode.com/
 
 [442]:https://leetcode.com/problems/find-all-duplicates-in-an-array/description/
 [442.1]:https://github.com/lingyu77/LeetCode/blob/master/C/412_FizzBuzz.c
+
+[448]:https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
+[448.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/448_FindAllNumbersDisappearedinanArray.java
 
 [461]:https://leetcode.com/problems/hamming-distance/description/
 [461.1]:https://github.com/lingyu77/LeetCode/blob/master/C/461_hammingDistance.c
