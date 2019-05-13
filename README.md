@@ -135,6 +135,7 @@ LeetCode : https://leetcode.com/
 | 162 | [Find Peak Element][162] | [Java][162.1] | Medium |
 | 278 | [First Bad Version][278] | [Java][278.1] | Easy |
 | 367 | [Valid Perfect Square][367] | [Java][367.1] | Easy |
+| 374 | [Guess Number Higher or Lower][374] | [Java][374.1] | Easy |
 | 704 | [Binary Search][704] | [Java][704.1] | Easy |
 | 852 | [Peak Index in a Mountain Array][852] | [Java][852.1] | Easy |
 
@@ -284,6 +285,9 @@ LeetCode : https://leetcode.com/
 
 [367]:https://leetcode.com/problems/valid-perfect-square/
 [367.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/367_ValidPerfectSquare.java
+
+[374]:https://leetcode.com/problems/guess-number-higher-or-lower/
+[374.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/374_GuessNumberHigherorLower.java
 
 [383]:https://leetcode.com/problems/ransom-note/
 [383.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/383_RansomNote.java
