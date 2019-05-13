@@ -12,7 +12,7 @@ LeetCode : https://leetcode.com/
 | 1 | [Two Sum][1] | [C][1.1] [Python][1.2] [Java][1.3]| Easy | [TO DO] C Hash table solution [Python3 Data structure][1.4]|
 | 26 | [Remove Duplicates from Sorted Array][26] | [C][26.1] [Java][26.2]| Easy | in-space [TO DO] Java8 stream|
 | 27 | [Remove Element][27] | [C][27.1] [Java][27.2] | Easy | in-space |
-| 35 | [Search Insert Position][35] | [Java][25.1] | Easy | Binary Search |
+| 35 | [Search Insert Position][35] | [Java][35.1] | Easy | Binary Search |
 | 53 | [Maximum Subarray][53] | [Java][53.1] | Easy | Dynamic Programming | 
 | 66 | [Plus One][66] | [C][66.1] [Java][66.2] | Easy | Note : memcpy usage |
 | 167 | [Two Sum II - Input array is sorted][167] | [C][167.1] | Easy | 
@@ -88,6 +88,7 @@ LeetCode : https://leetcode.com/
 | 9  | [Palindrome Number][9] | [Java][9.1] | Easy |
 | 13 | [Roman to Integer][13] | [C][13.1] [Python][13.2] | Easy |
 | 258 | [Add Digits][258] | [C][258.1] | Easy |
+| 441 | [Arranging Coins][441] | [Java][441.1] | Easy | Math, Binary Search |
 | 728 | [Self Dividing Numbers][728] | [C][728.1] [Python][728.2] | Easy |
 | 942 | [DI String Match][942] | [Java][942.1] | Easy |
 
@@ -305,6 +306,10 @@ LeetCode : https://leetcode.com/
 
 [434]:https://leetcode.com/problems/number-of-segments-in-a-string/description/
 [434.1]:https://github.com/lingyu77/LeetCode/blob/master/C/434_NumberOfSegmentsInAString.c
+
+
+[441]:https://leetcode.com/problems/arranging-coins/
+[441.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/441_ArrangingCoins.java
 
 [442]:https://leetcode.com/problems/find-all-duplicates-in-an-array/description/
 [442.1]:https://github.com/lingyu77/LeetCode/blob/master/C/412_FizzBuzz.c
