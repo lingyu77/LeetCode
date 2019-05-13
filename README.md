@@ -131,6 +131,7 @@ LeetCode : https://leetcode.com/
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
 | 162 | [Find Peak Element][162] | [Java][162.1] | Easy |
+| 367 | [Valid Perfect Square][367] | [Java][367.1] | Easy |
 | 704 | [Binary Search][704] | [Java][704.1] | Easy |
 | 852 | [Peak Index in a Mountain Array][852] | [Java][852.1] | Easy |
 
@@ -271,6 +272,9 @@ LeetCode : https://leetcode.com/
 
 [350]:https://leetcode.com/problems/intersection-of-two-arrays-ii/
 [350.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/350_IntersectionofTwoArraysII.java
+
+[367]:https://leetcode.com/problems/valid-perfect-square/
+[367.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/367_ValidPerfectSquare.java
 
 [383]:https://leetcode.com/problems/ransom-note/
 [383.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/383_RansomNote.java
