@@ -95,7 +95,8 @@ LeetCode : https://leetcode.com/
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
 | 242 | [Valid Anagram][242] | [C][242.1] | Easy |
-| 349 | [ Intersection of Two Arrays][349] | [Java][349.1] | Easy |
+| 349 | [ Intersection of Two Arrays][349] | [Java][349.1] | Easy | Data Structure: Set |
+| 350 | [ Intersection of Two Arrays II][350] | [Java][350.1] | Easy | Similar with 349. Data Structure: Map, List |
 | 389 | [Find the Difference][389] | [Java][389.1] | Easy |
 | 500 | [Keyboard Row][500] | [C][500.1] | Easy |
 | 575 | [Distribute Candies][575] | [C][575.1] | Easy |
@@ -267,6 +268,9 @@ LeetCode : https://leetcode.com/
 
 [349]:https://leetcode.com/problems/intersection-of-two-arrays/
 [349.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/349_IntersectionofTwoArrays.java
+
+[350]:https://leetcode.com/problems/intersection-of-two-arrays-ii/
+[350.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/350_IntersectionofTwoArraysII.java
 
 [383]:https://leetcode.com/problems/ransom-note/
 [383.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/383_RansomNote.java
