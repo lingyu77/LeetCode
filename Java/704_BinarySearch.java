@@ -18,3 +18,12 @@ class Solution {
         return (-1);
     }
 } 
+
+/* Solution 2: 0 ms : Arrays API
+class Solution {
+    public int search(int[] nums, int target) {
+        int index = Arrays.binarySearch(nums, target);
+        return (index > -1)? index : -1;
+    }
+}
+*/

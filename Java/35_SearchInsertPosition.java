@@ -27,3 +27,12 @@ public int searchInsert(int[] nums, int target) {
     }
 }
 */
+
+/* 0 ms
+class Solution {
+public int searchInsert(int[] nums, int target) {
+        int index = Arrays.binarySearch(nums, target);
+        return (index > -1)? index : Math.abs(index + 1);
+    }
+}
+*/
