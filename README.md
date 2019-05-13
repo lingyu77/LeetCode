@@ -130,7 +130,8 @@ LeetCode : https://leetcode.com/
 ### Binary Search
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
-| 162 | [Find Peak Element][162] | [Java][162.1] | Easy |
+| 69 | [Sqrt(x)][69] | [Java][69.1] | Easy |
+| 162 | [Find Peak Element][162] | [Java][162.1] | Medium |
 | 367 | [Valid Perfect Square][367] | [Java][367.1] | Easy |
 | 704 | [Binary Search][704] | [Java][704.1] | Easy |
 | 852 | [Peak Index in a Mountain Array][852] | [Java][852.1] | Easy |
@@ -197,6 +198,9 @@ LeetCode : https://leetcode.com/
 
 [67]:https://leetcode.com/problems/add-binary/
 [67.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/67_AddBinary.java
+
+[69]:https://leetcode.com/problems/sqrtx/
+[69.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/69_Sqrt(x).java
 
 [83]:https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
 [83.1]:https://github.com/lingyu77/LeetCode/blob/master/C/83_RemoveDuplicatesFromSortedList.c
