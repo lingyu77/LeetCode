@@ -132,6 +132,7 @@ LeetCode : https://leetcode.com/
 | ------ | ------ | ------ | ------ |------ |
 | 69 | [Sqrt(x)][69] | [Java][69.1] | Easy |
 | 162 | [Find Peak Element][162] | [Java][162.1] | Medium |
+| 278 | [First Bad Version][278] | [Java][278.1] | Easy |
 | 367 | [Valid Perfect Square][367] | [Java][367.1] | Easy |
 | 704 | [Binary Search][704] | [Java][704.1] | Easy |
 | 852 | [Peak Index in a Mountain Array][852] | [Java][852.1] | Easy |
@@ -259,6 +260,9 @@ LeetCode : https://leetcode.com/
 [268]:https://leetcode.com/problems/missing-number/description/
 [268.1]:https://github.com/lingyu77/LeetCode/blob/master/C/268_MissingNumber.c
 [268.2]:https://github.com/lingyu77/LeetCode/blob/master/Java/268_MissingNumber.java
+
+[278]:https://leetcode.com/problems/first-bad-version/
+[278.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/278_FirstBadVersion.java
 
 [283]:https://leetcode.com/problems/move-zeroes/description/
 [283.1]:https://github.com/lingyu77/LeetCode/blob/master/C/283_MoveZeroes.c
