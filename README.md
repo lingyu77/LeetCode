@@ -127,6 +127,7 @@ LeetCode : https://leetcode.com/
 | 206 | [Reverse Linked List][206] | [C][206.1] | Easy |
 | 234 | [Palindrome Linked List][234] | [C][234.1] | Easy |
 | 237 | [Delete Node in a Linked List][237] | [C][237.1] | Easy |
+| 707 | [Design Linked List][707] | [Java][707.1] | Easy | Test case bug with negative index |
 | 876 | [Middle of the Linked List][876] | [Java][876.1] | Easy |
 
 ### Binary Search
@@ -391,6 +392,9 @@ LeetCode : https://leetcode.com/
 
 [704]:https://leetcode.com/problems/binary-search/
 [704.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/704_BinarySearch.java
+
+[707]:https://leetcode.com/problems/design-linked-list/submissions/
+[707.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/707_DesignLinkedList.java
 
 [728]:https://leetcode.com/problems/self-dividing-numbers/description/
 [728.1]:https://github.com/lingyu77/LeetCode/blob/master/C/728_SelfDividingNumbers.c
