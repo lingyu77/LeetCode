@@ -127,6 +127,7 @@ LeetCode : https://leetcode.com/
 | 206 | [Reverse Linked List][206] | [C][206.1] | Easy |
 | 234 | [Palindrome Linked List][234] | [C][234.1] | Easy |
 | 237 | [Delete Node in a Linked List][237] | [C][237.1] | Easy |
+| 876 | [Middle of the Linked List][876] | [Java][876.1] | Easy |
 
 ### Binary Search
 | # | Title | Solutions | Difficulty | Note |
@@ -424,6 +425,9 @@ LeetCode : https://leetcode.com/
 
 [859]:https://leetcode.com/problems/buddy-strings/
 [859.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/859_BuddyStrings.java
+
+[876]:https://leetcode.com/problems/middle-of-the-linked-list/
+[876.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/876_MiddleoftheLinkedList.java
 
 [890]:https://leetcode.com/problems/find-and-replace-pattern/
 [890.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/890_FindandReplacePattern.java
