@@ -119,7 +119,7 @@ LeetCode : https://leetcode.com/
 ### Linked List
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
-| 21 | [Merge Two Sorted Lists][21] | [C][21.1] | Easy |
+| 21 | [Merge Two Sorted Lists][21] | [C][21.1] [Java][21.2] | Easy | Recursion |
 | 83 | [Remove Duplicates from Sorted List][83] | [C][83.1] | Easy |
 | 141 | [Linked List Cycle][141] | [C][141.1] | Easy |
 | 160 | [Intersection of Two Linked Lists][160] | [C][160.1] | Easy |
@@ -177,6 +177,7 @@ LeetCode : https://leetcode.com/
 
 [21]:https://leetcode.com/problems/merge-two-sorted-lists/description/
 [21.1]:https://github.com/lingyu77/LeetCode/blob/master/C/21_MergeTwoSortedLists.c
+[21.2]:https://github.com/lingyu77/LeetCode/blob/master/Java/21_MergeTwoSortedLists.java
 
 [26]:https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
 [26.1]:https://github.com/lingyu77/LeetCode/blob/master/C/26_RemoveDuplicatesFromSortedArray.c
