@@ -120,7 +120,7 @@ LeetCode : https://leetcode.com/
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
 | 21 | [Merge Two Sorted Lists][21] | [C][21.1] [Java][21.2] | Easy | Recursion |
-| 83 | [Remove Duplicates from Sorted List][83] | [C][83.1] | Easy |
+| 83 | [Remove Duplicates from Sorted List][83] | [C][83.1] [Java][83.2]| Easy |
 | 141 | [Linked List Cycle][141] | [C][141.1] | Easy |
 | 160 | [Intersection of Two Linked Lists][160] | [C][160.1] | Easy |
 | 203 | [Remove Duplicates from Sorted List][203] | [C][203.1] | Easy |
@@ -209,8 +209,9 @@ LeetCode : https://leetcode.com/
 [69]:https://leetcode.com/problems/sqrtx/
 [69.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/69_Sqrt(x).java
 
-[83]:https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
+[83]:https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 [83.1]:https://github.com/lingyu77/LeetCode/blob/master/C/83_RemoveDuplicatesFromSortedList.c
+[83.2]:https://github.com/lingyu77/LeetCode/blob/master/Java/83_RemoveDuplicatesfromSortedList.java
 
 [100]:https://leetcode.com/problems/same-tree/description/
 [100.1]:https://github.com/lingyu77/LeetCode/blob/master/C/100_SameTree.c
