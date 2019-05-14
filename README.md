@@ -137,6 +137,7 @@ LeetCode : https://leetcode.com/
 | 367 | [Valid Perfect Square][367] | [Java][367.1] | Easy |
 | 374 | [Guess Number Higher or Lower][374] | [Java][374.1] | Easy |
 | 704 | [Binary Search][704] | [Java][704.1] | Easy |
+| 744 | [Find Smallest Letter Greater Than Target][744] | [Java][744.1] | Easy | TODO: bitwise compliment |
 | 852 | [Peak Index in a Mountain Array][852] | [Java][852.1] | Easy |
 
 ### Greedy
@@ -390,18 +391,21 @@ LeetCode : https://leetcode.com/
 [704]:https://leetcode.com/problems/binary-search/
 [704.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/704_BinarySearch.java
 
-[771]:https://leetcode.com/problems/jewels-and-stones/
-[771.1]:https://github.com/lingyu77/LeetCode/blob/master/C/771_JewelsandStones.c
-
 [728]:https://leetcode.com/problems/self-dividing-numbers/description/
 [728.1]:https://github.com/lingyu77/LeetCode/blob/master/C/728_SelfDividingNumbers.c
 [728.2]:https://github.com/lingyu77/LeetCode/blob/master/Python%203/728_SelfDividingNumbers.py
+
+[744]:https://leetcode.com/problems/find-smallest-letter-greater-than-target/
+[744.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/744_FindSmallestLetterGreaterThanTarget.java
 
 [747]:https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/
 [747.1]:https://github.com/lingyu77/LeetCode/blob/master/C/747_LargestNumberAtLeastTwiceOfOthers.c
 
 [766]:https://leetcode.com/problems/toeplitz-matrix/description/
 [766.1]:https://github.com/lingyu77/LeetCode/blob/master/C/766_ToeplitzMatrix.c
+
+[771]:https://leetcode.com/problems/jewels-and-stones/
+[771.1]:https://github.com/lingyu77/LeetCode/blob/master/C/771_JewelsandStones.c
 
 [788]:https://leetcode.com/problems/rotated-digits/description/
 [788.1]:https://github.com/lingyu77/LeetCode/blob/master/C/788_RotatedDigits.c
