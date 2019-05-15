@@ -122,7 +122,7 @@ LeetCode : https://leetcode.com/
 | 21 | [Merge Two Sorted Lists][21] | [C][21.1] [Java][21.2] | Easy | Recursion |
 | 82 | [Remove Duplicates from Sorted List II][82] | [Java][82.1] | Easy |
 | 83 | [Remove Duplicates from Sorted List][83] | [C][83.1] [Java][83.2] | Easy |
-| 141 | [Linked List Cycle][141] | [C][141.1] | Easy |
+| 141 | [Linked List Cycle][141] | [C][141.1] [Java][141.2] | Easy | Tortoise and Hare Algorithm |
 | 160 | [Intersection of Two Linked Lists][160] | [C][160.1] | Easy |
 | 203 | [Remove Duplicates from Sorted List][203] | [C][203.1] | Easy |
 | 206 | [Reverse Linked List][206] | [C][206.1] | Easy |
@@ -231,8 +231,9 @@ LeetCode : https://leetcode.com/
 [136.2]:https://github.com/lingyu77/LeetCode/blob/master/Python%203/136_SingleNumber.py
 [136.3]:https://github.com/lingyu77/LeetCode/blob/master/Java/136_SingleNumber.java
 
-[141]:https://leetcode.com/problems/linked-list-cycle/description/
+[141]:https://leetcode.com/problems/linked-list-cycle/
 [141.1]:https://github.com/lingyu77/LeetCode/blob/master/C/141_LinkedListCycle.c
+[141.2]:https://github.com/lingyu77/LeetCode/blob/master/Java/141_LinkedListCycle.java
 
 [160]:https://leetcode.com/problems/intersection-of-two-linked-lists/description/
 [160.1]:https://github.com/lingyu77/LeetCode/blob/master/C/160_IntersectionOfTwoLinkedLists.c
