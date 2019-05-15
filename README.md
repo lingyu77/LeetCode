@@ -124,7 +124,7 @@ LeetCode : https://leetcode.com/
 | 83 | [Remove Duplicates from Sorted List][83] | [C][83.1] [Java][83.2] | Easy |
 | 141 | [Linked List Cycle][141] | [C][141.1] [Java][141.2] | Easy | Tortoise and Hare Algorithm |
 | 142 | [Linked List Cycle II][142] | [Java][142.1] | Medium | Tortoise and Hare Algorithm |
-| 160 | [Intersection of Two Linked Lists][160] | [C][160.1] | Easy |
+| 160 | [Intersection of Two Linked Lists][160] | [C][160.1] [Java][160.2] | Easy |
 | 203 | [Remove Duplicates from Sorted List][203] | [C][203.1] | Easy |
 | 206 | [Reverse Linked List][206] | [C][206.1] | Easy |
 | 234 | [Palindrome Linked List][234] | [C][234.1] | Easy |
@@ -239,8 +239,9 @@ LeetCode : https://leetcode.com/
 [142]:https://leetcode.com/problems/linked-list-cycle-ii/
 [142.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/142_LinkedListCycle.java
 
-[160]:https://leetcode.com/problems/intersection-of-two-linked-lists/description/
+[160]:https://leetcode.com/problems/intersection-of-two-linked-lists/
 [160.1]:https://github.com/lingyu77/LeetCode/blob/master/C/160_IntersectionOfTwoLinkedLists.c
+[160.2]:https://github.com/lingyu77/LeetCode/blob/master/Java/160_IntersectionofTwoLinkedLists.java
 
 [162]:https://leetcode.com/problems/find-peak-element/
 [162.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/162_FindPeakElement.java
