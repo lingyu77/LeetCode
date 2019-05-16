@@ -126,7 +126,7 @@ LeetCode : https://leetcode.com/
 | 142 | [Linked List Cycle II][142] | [Java][142.1] | Medium | Tortoise and Hare Algorithm |
 | 160 | [Intersection of Two Linked Lists][160] | [C][160.1] [Java][160.2] | Easy |
 | 203 | [Remove Linked List Elements][203] | [C][203.1] [Java][203.2] | Easy |
-| 206 | [Reverse Linked List][206] | [C][206.1] | Easy |
+| 206 | [Reverse Linked List][206] | [C][206.1] [Java][206.2] | Easy |
 | 234 | [Palindrome Linked List][234] | [C][234.1] | Easy |
 | 237 | [Delete Node in a Linked List][237] | [C][237.1] | Easy |
 | 707 | [Design Linked List][707] | [Java][707.1] | Easy | Test case bug with negative index |
@@ -253,8 +253,9 @@ LeetCode : https://leetcode.com/
 [203.1]:https://github.com/lingyu77/LeetCode/blob/master/C/203_RemoveLinkedListElements.c
 [203.2]:https://github.com/lingyu77/LeetCode/blob/master/Java/203_RemoveLinkedListElements.java
 
-[206]:https://leetcode.com/problems/reverse-linked-list/description/
+[206]:https://leetcode.com/problems/reverse-linked-list/
 [206.1]:https://github.com/lingyu77/LeetCode/blob/master/C/206_ReverseLinkedList.c
+[206.2]:https://github.com/lingyu77/LeetCode/blob/master/Java/206_ReverseLinkedList.java
 
 [217]:https://leetcode.com/problems/contains-duplicate/description/
 [217.1]:https://github.com/lingyu77/LeetCode/blob/master/C/217_ContainsDuplicate.c
