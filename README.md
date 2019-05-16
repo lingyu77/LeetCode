@@ -125,7 +125,7 @@ LeetCode : https://leetcode.com/
 | 141 | [Linked List Cycle][141] | [C][141.1] [Java][141.2] | Easy | Tortoise and Hare Algorithm |
 | 142 | [Linked List Cycle II][142] | [Java][142.1] | Medium | Tortoise and Hare Algorithm |
 | 160 | [Intersection of Two Linked Lists][160] | [C][160.1] [Java][160.2] | Easy |
-| 203 | [Remove Duplicates from Sorted List][203] | [C][203.1] | Easy |
+| 203 | [Remove Linked List Elements][203] | [C][203.1] [Java][203.2] | Easy |
 | 206 | [Reverse Linked List][206] | [C][206.1] | Easy |
 | 234 | [Palindrome Linked List][234] | [C][234.1] | Easy |
 | 237 | [Delete Node in a Linked List][237] | [C][237.1] | Easy |
@@ -249,8 +249,9 @@ LeetCode : https://leetcode.com/
 [167]:https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
 [167.1]:https://github.com/lingyu77/LeetCode/blob/master/C/167_TwoSumIIInputArrayIsSorted.c
 
-[203]:https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
+[203]:https://leetcode.com/problems/remove-linked-list-elements/
 [203.1]:https://github.com/lingyu77/LeetCode/blob/master/C/203_RemoveLinkedListElements.c
+[203.2]:https://github.com/lingyu77/LeetCode/blob/master/Java/203_RemoveLinkedListElements.java
 
 [206]:https://leetcode.com/problems/reverse-linked-list/description/
 [206.1]:https://github.com/lingyu77/LeetCode/blob/master/C/206_ReverseLinkedList.c
