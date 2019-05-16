@@ -128,7 +128,7 @@ LeetCode : https://leetcode.com/
 | 203 | [Remove Linked List Elements][203] | [C][203.1] [Java][203.2] | Easy |
 | 206 | [Reverse Linked List][206] | [C][206.1] [Java][206.2] | Easy |
 | 234 | [Palindrome Linked List][234] | [C][234.1] | Easy |
-| 237 | [Delete Node in a Linked List][237] | [C][237.1] | Easy |
+| 237 | [Delete Node in a Linked List][237] | [C][237.1] [Java][237.2]| Easy |
 | 707 | [Design Linked List][707] | [Java][707.1] | Easy | Test case bug with negative index |
 | 876 | [Middle of the Linked List][876] | [Java][876.1] | Easy |
 
