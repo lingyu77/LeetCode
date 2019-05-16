@@ -267,8 +267,9 @@ LeetCode : https://leetcode.com/
 [234]:https://leetcode.com/problems/palindrome-linked-list/description/
 [234.1]:https://github.com/lingyu77/LeetCode/blob/master/C/234_PalindromeLinkedList.c
 
-[237]:https://leetcode.com/problems/delete-node-in-a-linked-list/description/
+[237]:https://leetcode.com/problems/delete-node-in-a-linked-list/
 [237.1]:https://github.com/lingyu77/LeetCode/blob/master/C/237_DeleteNodeInALinkedList.c
+[237.2]:https://github.com/lingyu77/LeetCode/blob/master/Java/237_DeleteNodeInALinkedList.java
 
 [242]:https://leetcode.com/problems/valid-anagram/description/
 [242.1]:https://github.com/lingyu77/LeetCode/blob/master/C/242_ValidAnagram.c
