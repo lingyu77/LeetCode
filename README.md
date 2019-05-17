@@ -107,8 +107,8 @@ LeetCode : https://leetcode.com/
 ### Stack
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
-| 20 | [Valid Parentheses][20] | [C][20.1] [Java][20.2]| Easy |
-| 682 | [Baseball Game][682] | [C][682.1] | Easy |
+| 20 | [Valid Parentheses][20] | [C][20.1] [Java][20.2] | Easy |
+| 682 | [Baseball Game][682] | [C][682.1] [Java][682.2] | Easy |
 | 1021| [Remove Outermost Parentheses][1021] | [Java][1021.1] | Easy | Java Operator Precedence|
 
 ### Queue
@@ -399,6 +399,7 @@ LeetCode : https://leetcode.com/
 
 [682]:https://leetcode.com/problems/baseball-game/description/
 [682.1]:https://github.com/lingyu77/LeetCode/blob/master/C/682_BaseballGame.c
+[682.2]:https://github.com/lingyu77/LeetCode/blob/master/Java/682_BaseballGame.java
 
 [680]:https://leetcode.com/problems/valid-palindrome-ii/
 [680.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/680_ValidPalindromeII.java
