@@ -108,6 +108,7 @@ LeetCode : https://leetcode.com/
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
 | 20 | [Valid Parentheses][20] | [C][20.1] [Java][20.2] | Easy |
+| 155 | [Min Stack][155] | [Java][155.1] | Easy |
 | 682 | [Baseball Game][682] | [C][682.1] [Java][682.2] | Easy |
 | 1021| [Remove Outermost Parentheses][1021] | [Java][1021.1] | Easy | Java Operator Precedence|
 
@@ -239,6 +240,9 @@ LeetCode : https://leetcode.com/
 
 [142]:https://leetcode.com/problems/linked-list-cycle-ii/
 [142.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/142_LinkedListCycle.java
+
+[155]:https://leetcode.com/problems/min-stack/
+[155.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/155_MinStack.java
 
 [160]:https://leetcode.com/problems/intersection-of-two-linked-lists/
 [160.1]:https://github.com/lingyu77/LeetCode/blob/master/C/160_IntersectionOfTwoLinkedLists.c
@@ -397,7 +401,7 @@ LeetCode : https://leetcode.com/
 [657.2]:https://github.com/lingyu77/LeetCode/blob/master/Python%203/657_JudgeRouteCircle.py
 [657.4]:https://smileandenjoyeverything.blogspot.co.uk/2017/12/leetcode-657-judge-route-circle.html
 
-[682]:https://leetcode.com/problems/baseball-game/description/
+[682]:https://leetcode.com/problems/baseball-game/
 [682.1]:https://github.com/lingyu77/LeetCode/blob/master/C/682_BaseballGame.c
 [682.2]:https://github.com/lingyu77/LeetCode/blob/master/Java/682_BaseballGame.java
 
