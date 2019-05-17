@@ -107,7 +107,7 @@ LeetCode : https://leetcode.com/
 ### Stack
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
-| 20 | [Valid Parentheses][20] | [C][20.1] | Easy |
+| 20 | [Valid Parentheses][20] | [C][20.1] [Java][20.2]| Easy |
 | 682 | [Baseball Game][682] | [C][682.1] | Easy |
 | 1021| [Remove Outermost Parentheses][1021] | [Java][1021.1] | Easy | Java Operator Precedence|
 
@@ -174,8 +174,9 @@ LeetCode : https://leetcode.com/
 [14]:https://leetcode.com/problems/longest-common-prefix/
 [14.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/14_LongestCommonPrefix.java
 
-[20]:https://leetcode.com/problems/valid-parentheses/description/
+[20]:https://leetcode.com/problems/valid-parentheses/
 [20.1]:https://github.com/lingyu77/LeetCode/blob/master/C/20_ValidParentheses.c
+[20.2]:https://github.com/lingyu77/LeetCode/blob/master/Java/20_ValidParentheses.java
 
 [21]:https://leetcode.com/problems/merge-two-sorted-lists/description/
 [21.1]:https://github.com/lingyu77/LeetCode/blob/master/C/21_MergeTwoSortedLists.c
