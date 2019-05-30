@@ -120,6 +120,7 @@ LeetCode : https://leetcode.com/
 ### Linked List
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
+| 2 | [Add Two Numbers][2] | [Java][2.1] | Medium | Math |
 | 21 | [Merge Two Sorted Lists][21] | [C][21.1] [Java][21.2] | Easy | Recursion |
 | 82 | [Remove Duplicates from Sorted List II][82] | [Java][82.1] | Easy |
 | 83 | [Remove Duplicates from Sorted List][83] | [C][83.1] [Java][83.2] | Easy |
@@ -161,6 +162,9 @@ LeetCode : https://leetcode.com/
 [1.2]:https://github.com/lingyu77/LeetCode/blob/master/Python%203/1_TwoSum.py
 [1.3]:https://github.com/lingyu77/LeetCode/blob/master/Java/1_TwoSum.java
 [1.4]:https://docs.python.org/3/tutorial/datastructures.html
+
+[2]:https://leetcode.com/problems/add-two-numbers/
+[2.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/2_AddTwoNumbers.java
 
 [7]:https://leetcode.com/problems/reverse-integer/description/
 [7.1]:https://github.com/lingyu77/LeetCode/blob/master/C/7_ReverseInteger.c
