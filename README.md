@@ -15,7 +15,7 @@ LeetCode : https://leetcode.com/
 | 35 | [Search Insert Position][35] | [Java][35.1] | Easy | Binary Search |
 | 53 | [Maximum Subarray][53] | [Java][53.1] | Easy | Dynamic Programming | 
 | 66 | [Plus One][66] | [C][66.1] [Java][66.2] | Easy | Note : memcpy usage |
-| 167 | [Two Sum II - Input array is sorted][167] | [C][167.1] | Easy | 
+| 167 | [Two Sum II - Input array is sorted][167] | [C][167.1] [Java][167.2]| Easy |
 | 217 | [Contains Duplicate][217] | [C][217.1] [Java][217.2]| Easy | Math |
 | 268 | [Missing Number][268] | [C][268.1]  [Java][268.2]| Easy | Math |
 | 283 | [Move Zeroes][283] | [C][283.1] [Java][283.2]| Easy | Similar with 27 |
@@ -158,7 +158,7 @@ LeetCode : https://leetcode.com/
 | 412 | [Fizz Buzz][412] | [C][412.1] | Easy |
 | 504 | [Base 7][504] | [C][504.1] | Easy |
 
-[1]:https://leetcode.com/problems/two-sum/description/
+[1]:https://leetcode.com/problems/two-sum/
 [1.1]:https://github.com/lingyu77/LeetCode/blob/master/C/1_TwoSum.c
 [1.2]:https://github.com/lingyu77/LeetCode/blob/master/Python%203/1_TwoSum.py
 [1.3]:https://github.com/lingyu77/LeetCode/blob/master/Java/1_TwoSum.java
@@ -259,8 +259,9 @@ LeetCode : https://leetcode.com/
 [162]:https://leetcode.com/problems/find-peak-element/
 [162.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/162_FindPeakElement.java
 
-[167]:https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
+[167]:https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 [167.1]:https://github.com/lingyu77/LeetCode/blob/master/C/167_TwoSumIIInputArrayIsSorted.c
+[167.2]:https://github.com/lingyu77/LeetCode/blob/master/Java/167_TwoSumII-InputArrayisSorted.java
 
 [203]:https://leetcode.com/problems/remove-linked-list-elements/
 [203.1]:https://github.com/lingyu77/LeetCode/blob/master/C/203_RemoveLinkedListElements.c
@@ -503,5 +504,3 @@ LeetCode : https://leetcode.com/
 
 [1021]:https://leetcode.com/problems/remove-outermost-parentheses/
 [1021.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/1021_RemoveOutermostParentheses.java
-
-> Written with [StackEdit](https://stackedit.io/).
