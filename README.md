@@ -154,6 +154,7 @@ LeetCode : https://leetcode.com/
 ### Others
 | # | Title | Solutions | Difficulty | Note |
 | ------ | ------ | ------ | ------ |------ |
+| 3 | [Longest Substring Without Repeating Characters][3] | [Java][3.1] | Medium |
 | 412 | [Fizz Buzz][412] | [C][412.1] | Easy |
 | 504 | [Base 7][504] | [C][504.1] | Easy |
 
@@ -165,6 +166,9 @@ LeetCode : https://leetcode.com/
 
 [2]:https://leetcode.com/problems/add-two-numbers/
 [2.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/2_AddTwoNumbers.java
+
+[3]:https://leetcode.com/problems/longest-substring-without-repeating-characters/
+[3.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/3_LongestSubstringWithoutRepeatingCharacters.java
 
 [7]:https://leetcode.com/problems/reverse-integer/description/
 [7.1]:https://github.com/lingyu77/LeetCode/blob/master/C/7_ReverseInteger.c
