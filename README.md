@@ -15,6 +15,7 @@ LeetCode : https://leetcode.com/
 | 35 | [Search Insert Position][35] | [Java][35.1] | Easy | Binary Search |
 | 53 | [Maximum Subarray][53] | [Java][53.1] | Easy | Dynamic Programming | 
 | 66 | [Plus One][66] | [C][66.1] [Java][66.2] | Easy | Note : memcpy usage |
+| 88 | [Merge Sorted Array][88] | [Java][88.1] | Easy |
 | 167 | [Two Sum II - Input array is sorted][167] | [C][167.1] [Java][167.2]| Easy |
 | 217 | [Contains Duplicate][217] | [C][217.1] [Java][217.2]| Easy | Math |
 | 268 | [Missing Number][268] | [C][268.1]  [Java][268.2]| Easy | Math |
@@ -227,6 +228,9 @@ LeetCode : https://leetcode.com/
 [83]:https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 [83.1]:https://github.com/lingyu77/LeetCode/blob/master/C/83_RemoveDuplicatesFromSortedList.c
 [83.2]:https://github.com/lingyu77/LeetCode/blob/master/Java/83_RemoveDuplicatesfromSortedList.java
+
+[88]:https://leetcode.com/problems/merge-sorted-array/
+[88.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/88_MergeSortedArray.java
 
 [100]:https://leetcode.com/problems/same-tree/description/
 [100.1]:https://github.com/lingyu77/LeetCode/blob/master/C/100_SameTree.c
