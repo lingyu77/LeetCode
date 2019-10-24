@@ -73,6 +73,7 @@ LeetCode : https://leetcode.com/
 | 917 | [Reverse Only Letters][917] | [Java][917.1] | Easy |
 | 929 | [Unique Email Addresses][929] | [Java][929.1] | Easy |
 | 1016 | [Binary String With Substrings Representing 1 To N][1016] | [Java][1016.1] | Easy |
+| 1108 | [Defanging an IP Address][1108] | [Java][1108.1] | Easy |
 
 ### Tree
 | # | Title | Solutions | Difficulty | Note |
@@ -508,3 +509,6 @@ LeetCode : https://leetcode.com/
 
 [1021]:https://leetcode.com/problems/remove-outermost-parentheses/
 [1021.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/1021_RemoveOutermostParentheses.java
+
+[1108]:https://leetcode.com/problems/defanging-an-ip-address/
+[1108.1]:https://github.com/lingyu77/LeetCode/blob/master/Java/1108_DefangingAnIPAddress.java
